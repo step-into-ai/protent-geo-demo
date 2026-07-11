@@ -28,7 +28,7 @@ Beginnen Sie nicht mit einem Produktkatalog, sondern mit dem Ablauf am Stand. Wo
 
 Mobile Theken ergänzen laut Pro-Tent den Auftritt um Kontakt- und Arbeitsfläche sowie Stauraum und sind für schnellen Auf- und Abbau konzipiert. Für Literatur gibt es eine schwenkbare Prospektablage. Eine Lamellenwand schafft vertikale Warenfläche. Raumteiler oder ein Vorhangsystem können abgeschirmte Bereiche bilden. Das Absperr- und Leitsystem dient der Besucherführung, während ein Kabelhalteprofil Leitungen unauffälliger am Zelt entlangführt. LED-Flutlichtstrahler werden als Zubehör zur Beleuchtung angeboten.
 
-## Vier Entscheidungskriterien
+## Von der Funktion zur passenden Ausstattung
 
 1. **Betriebsfunktion:** Jedes Teil einer konkreten Aufgabe und einer verantwortlichen Zone zuordnen.
 2. **Flächenwirkung:** Eingang, Bewegungswege, Sichtlinien und nutzbare Arbeitsflächen im Layout kontrollieren.
@@ -68,7 +68,7 @@ Ein Kabelhalteprofil nimmt Leitungen auf und führt sie unauffälliger entlang d
 Ja. LED-Flutlichtstrahler werden von Pro-Tent als Zeltbeleuchtung angeboten.
 
 ### Passt jedes Zubehör zu jedem Faltzelt?
-Das sollte nicht pauschal angenommen werden. System, Größe, Montagepunkt, Adapter und aktuelle Spezifikation müssen zusammenpassen.
+System, Größe, Montagepunkt, Adapter und aktuelle Spezifikation müssen zusammenpassen.
 
 ## Nächster Schritt
 

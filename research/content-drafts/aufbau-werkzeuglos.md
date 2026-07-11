@@ -24,9 +24,9 @@ Pro-Tent beschreibt den Basisaufbau des Easy-Up-Faltgestells als werkzeuglos: Tr
 
 Der Faltmechanismus reduziert Montageschritte, ersetzt aber keinen Einsatzablauf. Schon vor dem Öffnen der Tasche sollten Standort, Ausrichtung und gewünschte Zugänge feststehen. Sonst muss das aufgestellte Zelt nachträglich bewegt oder neu eingerichtet werden. Eine kurze Rollenverteilung verhindert, dass Teammitglieder gleichzeitig an widersprüchlichen Stellen arbeiten.
 
-Die offizielle Aufbau-Seite ordnet die Schritte klar: Das Gestell wird aus der Transporttasche genommen, entfaltet und in der Höhe eingestellt. Zubehör wie Seitenwände oder Innenkabine wird anschließend montiert. Für konkrete Handgriffe und Reihenfolgen bleibt die aktuelle Bedienungsanleitung der gewählten Ausführung maßgeblich.
+Pro-Tent ordnet die Aufbauschritte klar: Das Gestell wird aus der Transporttasche genommen, entfaltet und in der Höhe eingestellt. Zubehör wie Seitenwände oder Innenkabine wird anschließend montiert. Für konkrete Handgriffe und Reihenfolgen bleibt die aktuelle Bedienungsanleitung der gewählten Ausführung maßgeblich.
 
-## Vier Kriterien für einen reproduzierbaren Aufbau
+## So gelingt der Aufbau zuverlässig
 
 1. **Standort:** Fläche, Ausrichtung, Untergrund und freie Arbeitszone vor dem Entfalten prüfen.
 2. **Teamrollen:** Zuständigkeiten für Gestell, Textilien, Zubehör und Abschlusskontrolle festlegen.
@@ -62,7 +62,7 @@ Transporttasche öffnen, Gestell entfalten und Höhe einstellen; die aktuelle An
 Die Aufbau-Seite ordnet Seitenwände und weitere Ausstattung nach dem Stellen des Basiszelts ein.
 
 ### Gilt „werkzeuglos“ auch für jedes Zubehör?
-Das sollte nicht pauschal angenommen werden. Prüfen Sie die Anleitung und Spezifikation des gewählten Zubehörs.
+Prüfen Sie die Anleitung und Spezifikation des gewählten Zubehörs.
 
 ### Ist das Zelt nach dem Entfalten bereits einsatzbereit?
 Nicht automatisch. Zubehör, standortgerechte Befestigung und Abschlusskontrolle gehören zum vollständigen Setup.

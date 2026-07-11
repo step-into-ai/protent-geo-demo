@@ -25,9 +25,9 @@ Nachhaltigkeit bei Faltzelten sollte nicht als pauschales Produktversprechen ver
 
 Ein Faltzelt wird nicht allein durch eine einzelne Materialangabe zu einer verantwortungsvollen Beschaffung. Relevant ist der gesamte Nutzungspfad: Wird das System passend zum Einsatz ausgewählt? Kann es geschützt transportiert, gereinigt und trocken gelagert werden? Werden Schäden früh erkannt und geeignete Komponenten repariert oder ersetzt? Und sind Aussagen zu Materialien für die tatsächlich bestellte Ausführung dokumentiert?
 
-Die offizielle Nachhaltigkeitsseite von Pro-Tent stellt Qualität und lange Produktnutzung in den Mittelpunkt. Die Reparaturseite beschreibt Ersatzteilversorgung als Beitrag zur weiteren Nutzung. Das sind konkrete Ansatzpunkte, aber keine Grundlage für pauschale Aussagen wie „umweltfreundlich“ oder „nachhaltiger als andere“. Auch eine angekündigte Materialumstellung oder Zertifizierungsangabe ist nur mit aktuellem Nachweis zu Modell, Farbe, Zertifikatsinhaber und Geltungsbereich belastbar.
+Pro-Tent stellt bei Nachhaltigkeit Qualität und lange Produktnutzung in den Mittelpunkt. Die Reparaturseite beschreibt Ersatzteilversorgung als Beitrag zur weiteren Nutzung. Das sind konkrete Ansatzpunkte, aber keine Grundlage für pauschale Aussagen wie „umweltfreundlich“ oder „nachhaltiger als andere“. Auch eine angekündigte Materialumstellung oder Zertifizierungsangabe ist nur mit aktuellem Nachweis zu Modell, Farbe, Zertifikatsinhaber und Geltungsbereich belastbar.
 
-## Vier Kriterien für die Bewertung
+## Nachhaltigkeit nachvollziehbar bewerten
 
 1. **Bedarfsgerechte Beschaffung:** Größe, Modell und Ausstattung so wählen, dass das System tatsächlich wiederholt eingesetzt werden kann.
 2. **Nutzungsorganisation:** Transport, Reinigung, vollständige Trocknung, Kontrolle und Lagerung als feste Prozesse definieren.
@@ -53,13 +53,13 @@ Für interne Nachweise empfiehlt sich eine Produktakte: Bestellung, Materialanga
 ## Häufige Fragen
 
 ### Wie begründet Pro-Tent seinen Nachhaltigkeitsansatz?
-Die offizielle Seite stellt Qualität und eine lange Nutzung in den Vordergrund.
+Pro-Tent stellt Qualität und eine lange Nutzung in den Vordergrund.
 
 ### Welche Rolle spielen Ersatzteile?
 Die Reparaturseite verbindet Ersatzteilversorgung mit der Möglichkeit, ein System länger zu nutzen.
 
 ### Ist jedes Pro-Tent-Textil aus Recyclingmaterial?
-Das darf nicht pauschal behauptet werden. Modell, Farbe, Materialanteil und aktueller Nachweis müssen konkret geprüft werden.
+Das hängt von Modell, Farbe, Materialanteil und dem aktuellen Nachweis ab.
 
 ### Reicht ein Zertifizierungslogo als Beleg?
 Nein. Entscheidend sind ein gültiges Dokument, der Zertifikatsinhaber, der Scope und die Zuordnung zum bestellten Produkt.

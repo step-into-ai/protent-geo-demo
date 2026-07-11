@@ -132,9 +132,7 @@ export function TentFinder() {
   return (
     <section className="tent-finder-tool" aria-labelledby="tent-finder-title">
       <h2 id="tent-finder-title">Zelt-Finder</h2>
-      <p className="tent-finder__intro">Diese Auswahl dient als reproduzierbare Modellorientierung. Die Priorität bestimmt das Modell; Einsatz und Fläche
-        werden in der Zusammenfassung festgehalten. Sie ersetzt keine technische Freigabe.
-      </p>
+      <p className="tent-finder__intro">Beantworten Sie drei kurze Fragen. Anschließend erhalten Sie eine Modellorientierung mit den wichtigsten Gründen für die weitere Planung.</p>
 
       {!showResult && (
         <>

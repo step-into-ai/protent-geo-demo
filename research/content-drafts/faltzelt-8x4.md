@@ -19,15 +19,15 @@ approvalStatus: draft
 
 ## Direktantwort
 
-8 × 4 m ist eines der großen, offiziell dokumentierten Pro-Tent-Standardformate. Es eignet sich zur Prüfung, wenn mehrere Funktionszonen in einer Einheit organisiert werden sollen. Die Größe allein verspricht jedoch weder eine bestimmte Kapazität noch eine pauschale Außeneignung. Layout, Modellverfügbarkeit, Transport, Aufbau, Ausstattung und standortgerechte Befestigung müssen als zusammenhängendes Betriebskonzept geplant werden.
+8 × 4 m gehört zu den großen Pro-Tent-Standardformaten und bietet Raum für mehrere Funktionszonen in einer Einheit. Die Größe allein verspricht jedoch weder eine bestimmte Kapazität noch eine pauschale Außeneignung. Layout, Modellverfügbarkeit, Transport, Aufbau, Ausstattung und standortgerechte Befestigung müssen als zusammenhängendes Betriebskonzept geplant werden.
 
 ## Große Grundfläche braucht klare Struktur
 
 Mehr Fläche schafft Optionen, löst aber keine unklaren Anforderungen. Ohne Zonenplan entstehen weite ungenutzte Bereiche neben Engstellen an Empfang, Ausgabe oder Lager. Definieren Sie zuerst die Kernaufgabe des Auftritts und ordnen Sie danach Präsentation, Gespräche, Technik und Service. Zeichnen Sie Möbel, Exponate und Arbeitsräume mit echten Maßen ein.
 
-Pro-Tent führt 8 × 4 m auf einer eigenen offiziellen Seite und ordnet es in der Größenübersicht als großes dokumentiertes Format ein. Die Produktseite des Pro-Tent 5000 betont den Outdooreinsatz und große Größen. Daraus darf die konkrete Modellverfügbarkeit nicht ungeprüft abgeleitet werden: Format, Reihe und Ausführung müssen in der aktuellen Konfiguration zusammenpassen. Mehr zur Reihe bietet [Pro-Tent 5000](/pro-tent-5000/).
+Pro-Tent führt 8 × 4 m auf einer eigenen Produktseite und ordnet es in der Größenübersicht als großes Format ein. Die Produktseite des Pro-Tent 5000 betont den Outdooreinsatz und große Größen. Daraus darf die konkrete Modellverfügbarkeit nicht ungeprüft abgeleitet werden: Format, Reihe und Ausführung müssen in der aktuellen Konfiguration zusammenpassen. Mehr zur Reihe bietet [Pro-Tent 5000](/pro-tent-5000/).
 
-## Vier Kriterien für 8 × 4 m
+## 8 × 4 m souverän organisieren
 
 1. **Flächenprogramm:** Teilen Sie Empfang, Aufenthalt, Präsentation, Lager und Service in nachvollziehbare Zonen.
 2. **Besucherführung:** Legen Sie Einblicke, Zugänge, Bewegungsrichtungen und freie Wege im Grundriss fest.
@@ -49,12 +49,12 @@ Ein großer Grundriss sollte bereits in der Entwurfsphase mit der [Ausstattung](
 
 Der Hersteller beschreibt den Basisaufbau des Faltgestells als werkzeuglos. Das ist keine Aussage über den Aufwand des kompletten 8-×-4-m-Setups. Entladung, Positionierung, Zubehör, Befestigung und Kontrolle bleiben eigene Schritte. Ein dokumentierter Probeaufbau mit realem Team und Material liefert die verlässlichere Zeit- und Rollenplanung.
 
-Für den Außeneinsatz sind Untergrund, vollständige Ausführung, Zubehör und aktuelle Bedingungen gemeinsam zu bewerten. Belastungsgrenzen dürfen nur aus gültigen Herstellerunterlagen für genau diese Konfiguration stammen. Eine Größe oder Modellpositionierung ist keine pauschale Sicherheitsfreigabe.
+Für den Außeneinsatz sind Untergrund, vollständige Ausführung, Zubehör und aktuelle Bedingungen gemeinsam zu bewerten. Belastungsgrenzen richten sich nach den gültigen Herstellerunterlagen für genau diese Konfiguration.
 
 ## Häufige Fragen
 
 ### Ist 8 × 4 m eine dokumentierte Standardgröße?
-Ja. Pro-Tent führt dafür eine eigene offizielle Größenseite.
+Ja. Pro-Tent führt dafür eine eigene Größenseite.
 
 ### Wie viele Personen passen in 8 × 4 m?
 Ohne Nutzung, Möblierung und Wege ist keine seriöse Pauschalzahl möglich. Erstellen Sie ein maßstäbliches Betriebslayout.

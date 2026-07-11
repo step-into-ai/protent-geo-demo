@@ -62,10 +62,18 @@ describe('GitHub-Pages-Ausgabe', () => {
     }
   })
 
-  it('führt alle Artikel zusätzlich zu Home und Hubs in der Sitemap', () => {
+  it('führt alle Artikel zusätzlich zu Home, Wissensindex und Hubs in der Sitemap', () => {
     const sitemap = readFileSync('dist/sitemap.xml', 'utf8')
-    expect(sitemap.match(/<url>/g)).toHaveLength(31)
+    expect(sitemap.match(/<url>/g)).toHaveLength(32)
+    expect(sitemap).toContain('<loc>https://step-into-ai.github.io/protent-geo-demo/wissen/</loc>')
     for (const article of articles) expect(sitemap).toContain(`<loc>${article.canonical}</loc>`)
+  })
+
+  it('liefert den vollständigen Wissensindex als statische HTML-Textbasis aus', () => {
+    const html = readFileSync('dist/wissen/index.html', 'utf8')
+    expect(html).toContain('<title>Pro-Tent Deutschland Wissen | Alle Themen und Ratgeber</title>')
+    expect(html).toContain('data-static-content="true"')
+    for (const article of articles) expect(html).toContain(article.title)
   })
 
   it('liefert auch Startseite und Hubs als substanzielle statische HTML-Textbasis aus', () => {
@@ -87,7 +95,8 @@ describe('GitHub-Pages-Ausgabe', () => {
   it('erzeugt maschinenlesbare KI-Inhaltsverzeichnisse mit allen öffentlichen Seiten und Quellen', () => {
     const concise = readFileSync('dist/llms.txt', 'utf8')
     const full = readFileSync('dist/llms-full.txt', 'utf8')
-    expect(concise).toContain('redaktionell eigenständige Demo')
+    expect(concise).toContain('Pro-Tent Deutschland')
+    expect(concise).not.toContain('redaktionell eigenständige Demo')
     expect(concise).toContain('https://www.pro-tent.com/de-de/')
     for (const article of articles) {
       expect(concise).toContain(article.canonical)
@@ -107,7 +116,7 @@ describe('GitHub-Pages-Ausgabe', () => {
 
   it('erzeugt eine statische noindex-404 mit eigenen Metadaten', () => {
     const html = readFileSync('dist/404.html', 'utf8')
-    expect(html).toContain('<title>404 – Seite nicht gefunden | Pro-Tent Wissenswelt</title>')
+    expect(html).toContain('<title>404 – Seite nicht gefunden | Pro-Tent Deutschland</title>')
     expect(html).toContain('name="robots" content="noindex,follow"')
     expect(html).toContain('rel="canonical" href="https://step-into-ai.github.io/protent-geo-demo/404.html"')
     expect(html.match(/property="og:url"/g)).toHaveLength(1)

@@ -27,7 +27,7 @@ Ein schöner Entwurf kann operativ scheitern, wenn Besucher am Exponat vorbeigef
 
 Ordnen Sie anschließend Prioritäten zu. Ein Leitprodukt benötigt die stärkste Blickachse; der Empfang muss zugänglich bleiben; Lager darf Arbeitswege nicht schneiden. Pro-Tent stellt das MODUL-4000-Profilsystem als Grundlage für Systemstände und individuelle Messestände dar. Die Systemnuten können Querverbinder und Ausstattung aufnehmen, während zusätzliche Standbeine weitere Raumkonfigurationen ermöglichen. Ob ein Systemstand oder eine individuelle Variante sinnvoller ist, hängt vom Wiederholungsgrad und vom gewünschten Gestaltungsspielraum ab.
 
-## Vier Entscheidungskriterien
+## Vom Messeziel zur belastbaren Planung
 
 1. **Messeziel:** Hauptziel und gewünschte Besucherhandlung in einem Satz festlegen.
 2. **Funktionszonen:** Empfang, Demo, Gespräch, Lager und Wege nach echter Nutzung dimensionieren.
@@ -48,7 +48,7 @@ Planen Sie Markenflächen aus der Laufrichtung. Ein großes Logo ist nicht autom
 
 Für den Betrieb braucht das Team mehr als eine Visualisierung. Ergänzen Sie eine Bauteilliste, Packlogik, Aufbaufolge und Rollenverteilung. Testen Sie vor dem ersten Termin, ob Exponate, Prospekte, Kabel und persönliche Gegenstände definierte Plätze haben. Modularität zahlt sich aus, wenn jede Variante dokumentiert ist und vor Ort ohne Improvisation aufgebaut werden kann.
 
-Sicherheits- und Genehmigungsfragen bleiben projektspezifisch. Höhen, Flucht- und Bewegungswege, elektrische Installationen, Materialnachweise und weitere Veranstalteranforderungen sind anhand der aktuellen Unterlagen der konkreten Messe zu prüfen. Dieser redaktionelle Plan ersetzt keine technische Freigabe.
+Sicherheits- und Genehmigungsfragen bleiben projektspezifisch. Höhen, Flucht- und Bewegungswege, elektrische Installationen, Materialnachweise und weitere Veranstalteranforderungen richten sich nach den aktuellen Unterlagen der jeweiligen Messe.
 
 ## Häufige Fragen
 
@@ -59,7 +59,7 @@ Mit Zielgruppe, gewünschter Handlung und einer Funktionsliste für Empfang, Pr�
 Pro-Tent beschreibt ihn als mobile, flexibel kombinierbare Messebaulösung für unterschiedliche Auftritte.
 
 ### Kann ein Stand individuell geplant werden?
-Ja. Die offizielle Messeplanung sieht individuelle Lösungen neben Systemständen ausdrücklich vor.
+Ja. Pro-Tent bietet individuelle Lösungen neben Systemständen an.
 
 ### Warum ist MODUL 4000 für wiederkehrende Messekonzepte relevant?
 Das Profilsystem dient als Grundlage für Systemstände und individuelle Planungen; dokumentierte Varianten können dadurch über mehrere Messetermine hinweg vorbereitet werden.

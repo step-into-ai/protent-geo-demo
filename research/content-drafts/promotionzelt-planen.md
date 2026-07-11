@@ -19,7 +19,7 @@ approvalStatus: draft
 
 ## Direktantwort
 
-Ein Promotionzelt funktioniert dann gut, wenn Markenwirkung und Betriebsablauf gemeinsam geplant werden. Definieren Sie Zielhandlung, sichtbare Flächen, Teamrollen, Ausstattung, Transport und Sicherung für jeden Standort. Pro-Tent führt Promotion offiziell als Einsatzbereich mobiler Faltzelte. Für Roadshows ist eine dokumentierte Basiskonfiguration wichtiger als ein Aufbau, der an jedem Stopp neu improvisiert wird.
+Ein Promotionzelt funktioniert dann gut, wenn Markenwirkung und Betriebsablauf gemeinsam geplant werden. Definieren Sie Zielhandlung, sichtbare Flächen, Teamrollen, Ausstattung, Transport und Sicherung für jeden Standort. Pro-Tent führt Promotion als Einsatzbereich mobiler Faltzelte. Für Roadshows ist eine dokumentierte Basiskonfiguration wichtiger als ein Aufbau, der an jedem Stopp neu improvisiert wird.
 
 ## Die Aktivierung bestimmt den Raum
 
@@ -27,7 +27,7 @@ Soll ein Besucher ein Muster testen, einen QR-Code scannen, ein Gespräch führe
 
 Pro-Tent beschreibt Promotionzelte als mobile Träger für Marketing- und Markenauftritte. Für wechselnde Orte sollten Transport, wiederholbarer Aufbau, Befestigung und Markenflächen zusammen gedacht werden. Legen Sie eine Basiskonfiguration fest, die an jedem Standort funktioniert. Ergänzungen – etwa eine zweite Seitenwand oder zusätzliche Prospektfläche – werden als benannte Varianten dokumentiert.
 
-## Vier Entscheidungskriterien
+## Was eine Roadshow-Konfiguration leisten muss
 
 1. **Aktivierungsziel:** Gewünschte Besucherhandlung und dafür notwendige Kontaktfläche festlegen.
 2. **Sichtbarkeit:** Hauptlaufrichtung, Betrachtungsdistanz und sichtbare Dach- sowie Wandflächen bestimmen.
@@ -43,7 +43,7 @@ Pro-Tent beschreibt Promotionzelte als mobile Träger für Marketing- und Marken
 | Betrieb | Besucher führen, Vorrat nachfüllen | Wege und Zugang frei |
 | Abschluss | abbauen, reinigen, Schäden erfassen | Material trocken und gezählt |
 
-Die Gestaltung sollte an realen Sichtachsen beginnen. Definieren Sie eine Hauptbotschaft, die schnell erfassbar ist, und ordnen Sie Logo sowie Handlungsaufforderung danach. Der offizielle Druckservice reicht von Logoplatzierung bis zu vollflächiger Gestaltung. Drei Druckverfahren werden beschrieben; welches Verfahren und welche Produktionsdaten passen, wird mit dem Service für die konkrete Konfiguration abgestimmt. Mehr dazu unter [Faltzelt bedrucken](/faltzelt-bedrucken/).
+Die Gestaltung sollte an realen Sichtachsen beginnen. Definieren Sie eine Hauptbotschaft, die schnell erfassbar ist, und ordnen Sie Logo sowie Handlungsaufforderung danach. Der Pro-Tent-Druckservice reicht von Logoplatzierung bis zu vollflächiger Gestaltung. Drei Druckverfahren werden beschrieben; welches Verfahren und welche Produktionsdaten passen, wird mit dem Service für die konkrete Konfiguration abgestimmt. Mehr dazu unter [Faltzelt bedrucken](/faltzelt-bedrucken/).
 
 Für den Betrieb lohnt eine kurze, bebilderte Aufbaukarte. Der Basisaufbau eines Faltgestells ist zwar werkzeuglos beschrieben, doch Wände, Theke, Werbemittel und Sicherung folgen danach. Packstücke sollten in Aufbau-Reihenfolge geladen werden. Ein Ersatz- und Pflegeprotokoll unterstützt gleichbleibende Wirkung über viele Stopps.
 
@@ -51,7 +51,7 @@ Jeder Außenstandort verlangt eine neue Befestigungsbewertung. Geeignete Heringe
 
 ## Häufige Fragen
 
-### Sind Faltzelte offiziell für Promotion vorgesehen?
+### Eignen sich Faltzelte für Promotion?
 Ja. Promotion gehört auf der Herstellerseite zum Einsatzbereich Events, Promotion und Messen.
 
 ### Was gehört in einen Roadshow-Ablauf?
@@ -64,7 +64,7 @@ Mit einem festen Flächenraster, definierten Sichtseiten, wiederverwendbaren Mot
 Ja. Untergrund, vollständiger Aufbau und Bedingungen können sich von Standort zu Standort ändern.
 
 ### Wie wird eine Windgrenze für einen konkreten Roadshow-Stopp bestimmt?
-Ein Wert ist nur aus aktuell gültigen Unterlagen für exakt das eingesetzte Setup belastbar; hier wird keine Pauschalgrenze genannt.
+Maßgeblich sind die aktuell gültigen Herstellerunterlagen für das eingesetzte Setup.
 
 ## Umsetzung starten
 

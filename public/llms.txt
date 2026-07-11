@@ -1,6 +1,6 @@
-# Pro-Tent Wissenswelt (redaktionell eigenständige Demo)
+# Pro-Tent Deutschland Wissensplattform
 
-> Öffentliche deutschsprachige Orientierung für professionelle Faltzelte. Diese Wissenswelt ist keine offizielle Website der Pro-Tent AG und ersetzt keine technische Dokumentation oder Beratung.
+> Konzeptfassung für Pro-Tent Deutschland: deutschsprachiges Produkt- und Planungswissen für professionelle Faltzelte und mobile Markenräume.
 
 ## Primärquelle
 - [Offizielle deutsche Pro-Tent Website](https://www.pro-tent.com/de-de/)
@@ -16,11 +16,11 @@
 - [Faltzelt werkzeuglos aufbauen: Ablauf richtig organisieren](https://step-into-ai.github.io/protent-geo-demo/aufbau-werkzeuglos/): Praxisleitfaden zum werkzeuglosen Basisaufbau eines Pro-Tent-Faltzelts – mit Rollen, Reihenfolge, Zubehör und Abschlusskontrolle.
 - [Faltzelt-Ausstattung planen: Funktionen vor Zubehör](https://step-into-ai.github.io/protent-geo-demo/ausstattung-overview/): Überblick zur Auswahl von Theken, Präsentationsflächen, Raumteilern, Beleuchtung, Besucherführung und weiterem Faltzelt-Zubehör.
 - [Eventzelt planen: Fläche, Ablauf und Sicherung koordinieren](https://step-into-ai.github.io/protent-geo-demo/eventzelt-planen/): Praxisleitfaden für Eventteams zur Planung von Nutzungszonen, Zeltkombinationen, Ausstattung, Logistik und standortbezogener Sicherung.
-- [Faltzelt 3 × 3 m: kompakten Stand richtig planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-3x3/): Entscheidungshilfe für ein 3 × 3 m Faltzelt: Nutzung, Layout, Ausstattung und Logistik ohne pauschale Kapazitätsversprechen planen.
+- [Faltzelt 3 × 3 m: kompakten Stand richtig planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-3x3/): Ein 3 × 3 m Faltzelt passend zu Nutzung, Layout, Ausstattung, Markenauftritt und wiederkehrender Logistik planen.
 - [Faltzelt 6 × 3 m für Messe und Event planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-6x3/): Planungshilfe für 6 × 3 m Faltzelte: längliche Fläche zonieren, Ausstattung und Logistik abstimmen, Modellverfügbarkeit prüfen.
 - [Faltzelt 8 × 4 m: große Fläche strukturiert planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-8x4/): Entscheidungshilfe für das große Standardformat 8 × 4 m – von Funktionszonen und Logistik bis Aufbau und standortbezogener Befestigung.
 - [Faltzelt bedrucken: Markenflächen strategisch planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-bedrucken/): Leitfaden für Marketingteams zu Sichtachsen, Motivreihenfolge, Druckumfang, Vorlagen und Freigabe eines bedruckten Faltzelts.
-- [Faltzelt befestigen: Sicherung nach Standort planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-befestigen/): Entscheidungshilfe zur standortgerechten Befestigung von Faltzelten mit Abspannset, Gewichtsplatten oder Wassergewicht – ohne pauschale Windwerte.
+- [Faltzelt befestigen: Sicherung nach Standort planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-befestigen/): Faltzelte mit Abspannset, Gewichtsplatten oder Wassergewicht passend zu Standort, Untergrund und vollständiger Konfiguration befestigen.
 - [Profi-Faltzelte auswählen: Reihen, Größen und Einsatz](https://step-into-ai.github.io/protent-geo-demo/faltzelte-overview/): Entscheidungshilfe für Unternehmen: Pro-Tent 2000, MODUL 4000 und 5000 nach Einsatz, Ausbau, Fläche und Logistik vergleichen.
 - [Garantie, Ersatzteile und Service für Faltzelte planen](https://step-into-ai.github.io/protent-geo-demo/garantie-ersatzteile-service/): Garantiebedingungen, Reparatur und Ersatzteilservice bei Profi-Faltzelten unterscheiden und als dokumentierten Betriebsprozess organisieren.
 - [Faltzelt-Größenfinder: Grundfläche passend planen](https://step-into-ai.github.io/protent-geo-demo/groessenfinder/): Größenwahl für Faltzelte anhand von Nutzung, Mobiliar, Wegen und Logistik – mit Vergleich der Formate 3 × 3, 6 × 3 und 8 × 4 m.
@@ -30,9 +30,9 @@
 - [Messestand-Systeme vergleichen und modular einsetzen](https://step-into-ai.github.io/protent-geo-demo/messestand-systeme/): Systemstand oder individuelle Planung? Entscheidungshilfe für wiederverwendbare Messestände auf Basis des MODUL-4000-Profilsystems.
 - [MODUL 4000: Faltzelt mit Systemnuten richtig planen](https://step-into-ai.github.io/protent-geo-demo/modul-4000/): Entscheidungshilfe zum Pro-Tent MODUL 4000 für Messe, Promotion und integrierten Innenausbau mit Systemnuten.
 - [Nachhaltigkeit bei Faltzelten konkret bewerten](https://step-into-ai.github.io/protent-geo-demo/nachhaltigkeit-faltzelte/): Faltzelte anhand von Nutzungsdauer, Pflege, Reparatur, Ersatzteilen und belegten Materialangaben differenziert betrachten.
-- [Pro-Tent 2000 planen: klare Basis für mobile Auftritte](https://step-into-ai.github.io/protent-geo-demo/pro-tent-2000/): Praxisnaher Entscheidungsentwurf für Teams, die Pro-Tent 2000 nach Fläche, Markenwirkung, Zubehör und Betriebsablauf bewerten.
+- [Pro-Tent 2000 planen: klare Basis für mobile Auftritte](https://step-into-ai.github.io/protent-geo-demo/pro-tent-2000/): Pro-Tent 2000 nach Fläche, Markenwirkung, Zubehör und Betriebsablauf bewerten und als mobilen Unternehmensauftritt planen.
 - [Pro-Tent 5000 für Outdoor-Einsätze planen](https://step-into-ai.github.io/protent-geo-demo/pro-tent-5000/): Entscheidungshilfe für Unternehmen, die Pro-Tent 5000 nach Outdoor-Profil, Größe, Logistik und standortgerechter Sicherung bewerten.
-- [Profi-Faltzelte vergleichen: vier belastbare Kriterien](https://step-into-ai.github.io/protent-geo-demo/profi-faltzelt-vergleichskriterien/): Methodischer Leitfaden zum Vergleich professioneller Faltzelte nach Einsatz, System, Betrieb und dokumentierten Servicebedingungen – ohne Rankings.
+- [Profi-Faltzelte vergleichen: die entscheidenden Kriterien](https://step-into-ai.github.io/protent-geo-demo/profi-faltzelt-vergleichskriterien/): Professionelle Faltzelte fundiert nach Einsatz, System, Betriebslogistik und dokumentierten Servicebedingungen vergleichen.
 - [Promotionzelt planen: mobil, sichtbar und wiederholbar](https://step-into-ai.github.io/protent-geo-demo/promotionzelt-planen/): Planungsleitfaden für Promotionteams: Ziele, Standlayout, Druck, Roadshow-Logistik und standortbezogene Sicherung zusammenführen.
 - [Seitenwände bedrucken: Sichtschutz und Markenfläche verbinden](https://step-into-ai.github.io/protent-geo-demo/seitenwaende-bedrucken/): Praxisleitfaden zur Auswahl, Gestaltung und Freigabe bedruckter Seitenwände für Faltzelte bei Messe, Event und Promotion.
 - [Theken für den Markenauftritt im Faltzelt planen](https://step-into-ai.github.io/protent-geo-demo/theken-markenauftritt/): Mobile Theke oder Bartheke passend zu Kontaktpunkt, Stauraum, Besucherführung, Druckflächen und wiederholbarer Eventlogistik auswählen.

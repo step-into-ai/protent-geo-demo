@@ -53,23 +53,30 @@ const questions = [
 ]
 
 const homeFaqItems = questions.map(item => ({ question: item.q, answer: item.a }))
-const homeMeta: PageMeta = { title: 'Pro-Tent Wissenswelt | Faltzelte verständlich auswählen', description: 'Modelle, Größen, Einsatzbereiche, Aufbau, Bedruckung und Zubehör für Pro-Tent Faltzelte verständlich erklärt – mit Links zu den offiziellen Produktseiten.', canonical: 'https://step-into-ai.github.io/protent-geo-demo/' }
+const homeMeta: PageMeta = { title: 'Pro-Tent Deutschland | Wissen für mobile Markenräume', description: 'Die Wissensplattform für Pro-Tent Deutschland: Faltzelte, mobile Messestände, Promotion, Bedruckung und Ausstattung fundiert planen.', canonical: 'https://step-into-ai.github.io/protent-geo-demo/' }
 const articleHighlights = ['faltzelte-overview', 'groessenfinder', 'messestand-planen', 'promotionzelt-planen', 'faltzelt-bedrucken', 'ausstattung-overview'].map(slug => {
   const article = articleBySlug.get(slug)
   if (!article) throw new Error(`Fehlender Startseiten-Artikel: ${slug}`)
   return article
 })
 
+const conceptVisuals = [
+  { image: 'de-messe-konzept.webp', eyebrow: 'Messe & Unternehmen', title: 'Markenräume für persönliche Begegnungen', alt: 'Konzeptvisual eines modularen Messestands in einer modernen Messehalle' },
+  { image: 'de-promotion-konzept.webp', eyebrow: 'Promotion & Roadshow', title: 'Präsenz, die mit der Kampagne reist', alt: 'Konzeptvisual eines mobilen Promotion-Setups auf einem urbanen Platz' },
+  { image: 'de-gastro-konzept.webp', eyebrow: 'Hospitality & Event', title: 'Serviceflächen mit professionellem Auftritt', alt: 'Konzeptvisual eines mobilen Hospitality-Setups bei einer Unternehmensveranstaltung' },
+  { image: 'de-material-konzept.webp', eyebrow: 'Material & Gestaltung', title: 'Präzision wird sichtbar', alt: 'Abstraktes Konzeptvisual aus hellem Textil, dunklen Flächen und rotem Akzent' },
+]
+
 export default function HomePage() {
   const [menu, setMenu] = useState(false)
   return <>
-    <Meta meta={homeMeta} faqs={homeFaqItems} title="Pro-Tent Wissenswelt"/>
+    <Meta meta={homeMeta} faqs={homeFaqItems} title="Pro-Tent Deutschland"/>
     <a className="skip-link" href="#main-content">Zum Inhalt springen</a>
     <header className="site-header" onKeyDown={event => { if (event.key === 'Escape') setMenu(false) }}>
-      <Link className="brand official-brand" to="/" aria-label="Pro-Tent Wissenswelt Startseite"><img src={`${assets}logo-protent.svg`} alt="Pro-Tent"/><span className="knowledge-label">Wissenswelt</span></Link>
+      <Link className="brand official-brand germany-brand" to="/"><img src={`${assets}logo-protent.svg`} alt="Pro-Tent"/><span className="knowledge-label"><b>Deutschland</b><small>Wissensplattform</small></span></Link>
       <button className="menu-btn" aria-label={menu ? 'Menü schließen' : 'Menü öffnen'} aria-expanded={menu} aria-controls="main-nav" onClick={()=>setMenu(!menu)}>Menü <span aria-hidden="true">{menu ? '×' : '☰'}</span></button>
       <nav id="main-nav" className={menu?'open':''} aria-label="Hauptnavigation">
-        <Link to="/faltzelte" onClick={()=>setMenu(false)}>Faltzelte</Link><Link to="/messestaende" onClick={()=>setMenu(false)}>Messe</Link><Link to="/promotion-event" onClick={()=>setMenu(false)}>Promotion</Link><Link to="/bedruckung" onClick={()=>setMenu(false)}>Bedruckung</Link><Link to="/ausstattung" onClick={()=>setMenu(false)}>Ausstattung</Link>
+        <Link to="/wissen" onClick={()=>setMenu(false)}>Wissen</Link><Link to="/faltzelte" onClick={()=>setMenu(false)}>Faltzelte</Link><Link to="/messestaende" onClick={()=>setMenu(false)}>Messe</Link><Link to="/promotion-event" onClick={()=>setMenu(false)}>Promotion</Link><Link to="/bedruckung" onClick={()=>setMenu(false)}>Bedruckung</Link><Link to="/ausstattung" onClick={()=>setMenu(false)}>Ausstattung</Link>
         <Out href={`${official}/konfigurator/`}>Konfigurator</Out>
       </nav>
     </header>
@@ -79,11 +86,11 @@ export default function HomePage() {
         <div className="hero-photo" role="img" aria-label="Pro-Tent Faltzelt im professionellen Außeneinsatz" />
         <div className="hero-overlay" />
         <div className="hero-content wrap">
-          <p className="eyebrow">Orientierung für professionelle Faltzelte</p>
-          <h1 id="hero-title">Das passende Zelt.<br/><em>Klar entschieden.</em></h1>
-          <p className="lead">Modelle, Größen, Einsatzbereiche und Ausstattung verständlich erklärt – mit direktem Weg zu den offiziellen Pro-Tent Produktseiten.</p>
+          <p className="eyebrow">Pro-Tent Deutschland · Wissen für Unternehmen</p>
+          <h1 id="hero-title">Mobile Markenräume.<br/><em>Klar geplant.</em></h1>
+          <p className="lead">Von der ersten Fläche bis zum wiederholbaren Markenauftritt: Modelle, Größen, Ausstattung und Einsatzbereiche fundiert zusammenführen.</p>
           <div className="hero-actions"><a className="btn primary" href="#finder">Zelt auswählen</a><Out href={`${official}/beratung/`}>Persönliche Beratung</Out></div>
-          <p className="source-note">Unabhängige Demo-Wissenswelt · Produktangaben basieren auf pro-tent.com</p>
+          <p className="source-note">Konzept für Pro-Tent Deutschland · Produktwissen aus offiziellen Pro-Tent Quellen</p>
         </div>
       </section>
 
@@ -93,9 +100,15 @@ export default function HomePage() {
         <a href="#wissen"><b>4 Schritte</b><span>Von Nutzung bis Zubehör</span><i>→</i></a>
       </div></section>
 
+      <section className="section concept-gallery" aria-labelledby="concept-gallery-title" aria-label="Einsatzwelten für Deutschland"><div className="wrap">
+        <div className="section-head split"><div><p className="eyebrow dark">Pro-Tent in Anwendung</p><h2 id="concept-gallery-title">Vom Faltzelt zum mobilen Markenraum.</h2></div><p>Vier visuelle Richtungen zeigen, wie Pro-Tent Unternehmen in Deutschland bei Messe, Promotion und Hospitality begleiten kann.</p></div>
+        <div className="concept-gallery-grid">{conceptVisuals.map((visual, index) => <figure key={visual.image} className={`concept-visual concept-visual-${index + 1}`}><img src={`${assets}${visual.image}`} alt={visual.alt}/><figcaption><span>Konzeptvisual · {visual.eyebrow}</span><b>{visual.title}</b></figcaption></figure>)}</div>
+        <p className="concept-disclosure">Die Visuals dienen der gestalterischen Vision. Konkrete Produktdetails und Ausführungen richten sich nach dem aktuellen Pro-Tent Portfolio.</p>
+      </div></section>
+
       <section id="finder" className="section finder-stage">
         <div className="wrap">
-          <div className="section-head split"><div><p className="eyebrow dark">Interaktive Entscheidungshilfe</p><h2>In drei Schritten zur Modellorientierung.</h2></div><p>Der Finder verbindet Einsatz, Flächenbedarf und Systempriorität. Das Ergebnis ist eine sachliche Vorauswahl – keine technische Freigabe.</p></div>
+          <div className="section-head split"><div><p className="eyebrow dark">Interaktive Entscheidungshilfe</p><h2>In drei Schritten zur passenden Modellwelt.</h2></div><p>Wählen Sie Einsatz, Flächenbedarf und Priorität. Der Finder ordnet anschließend eine passende Pro-Tent Modellreihe ein.</p></div>
           <TentFinder/>
           <div className="usecase-followup"><p className="eyebrow dark">Einsatzfelder vertiefen</p><div className="use-grid">
             {useCases.map(([name,text,href,claimId],i)=><article className="use-card" data-claim-id={claimId} key={name}><span className="index">0{i+1}</span><div><h3>{name}</h3><p>{text}</p><Out href={href}>Einsatzbereich ansehen</Out></div></article>)}
@@ -138,9 +151,9 @@ export default function HomePage() {
         <div className="faq-list">{questions.map((item,i)=><details key={item.q} open={i===0}><summary><span>{String(i+1).padStart(2,'0')}</span>{item.q}<i aria-hidden="true">+</i></summary><p>{item.a}</p></details>)}</div>
       </section>
 
-      <section className="cta"><div className="wrap"><div><p className="eyebrow">Nächster Schritt</p><h2>Aus Wissen wird eine passende Konfiguration.</h2><p>Nutze die Wissenswelt zur Orientierung – und kläre Modell, Größe, Druck und Zubehör anschließend direkt mit Pro-Tent.</p></div><div className="cta-actions"><Out href={`${official}/konfigurator/zelt-konfigurator/`}>Zelt konfigurieren</Out><Out href={`${official}/kontakt/`}>Kontakt aufnehmen</Out></div></div></section>
+      <section className="cta"><div className="wrap"><div><p className="eyebrow">Nächster Schritt</p><h2>Aus Wissen wird ein starker Auftritt.</h2><p>Bereiten Sie Modell, Größe, Bedruckung und Ausstattung mit der Wissensplattform vor und konkretisieren Sie das Projekt anschließend gemeinsam mit Pro-Tent.</p></div><div className="cta-actions"><Out href={`${official}/konfigurator/zelt-konfigurator/`}>Zelt konfigurieren</Out><Out href={`${official}/kontakt/`}>Kontakt aufnehmen</Out></div></div></section>
     </main>
 
-    <footer><div className="wrap footer-grid"><div className="brand official-brand footer-brand"><span className="footer-logo"><img src={`${assets}logo-protent.svg`} alt="Pro-Tent"/></span><span className="knowledge-label">Wissenswelt</span></div><div><b>Orientierung</b><a href="#modelle">Modelle</a><a href="#groessen">Größen</a><a href="#wissen">Praxiswissen</a></div><div><b>Offizielle Seiten</b><Out href={`${official}/faltzelte/`}>Faltzelte</Out><Out href={`${official}/zubehoer/`}>Zubehör</Out><Out href={`${official}/beratung/`}>Beratung</Out></div><div><b>Über diese Demo</b><p>Öffentliche, redaktionell eigenständige Wissensdemo. Keine offizielle Website der Pro-Tent AG.</p></div></div><div className="wrap legal"><span>Demo · Stand 11. Juli 2026</span><Out href="https://github.com/step-into-ai/protent-geo-demo/blob/main/SOURCE-MAP.md">Quellen im Repository</Out></div></footer>
+    <footer><div className="wrap footer-grid"><div className="brand official-brand footer-brand germany-brand"><span className="footer-logo"><img src={`${assets}logo-protent.svg`} alt="Pro-Tent"/></span><span className="knowledge-label"><b>Deutschland</b><small>Wissensplattform</small></span></div><div><b>Orientierung</b><a href="#modelle">Modelle</a><a href="#groessen">Größen</a><a href="#wissen">Praxiswissen</a></div><div><b>Offizielle Seiten</b><Out href={`${official}/faltzelte/`}>Faltzelte</Out><Out href={`${official}/zubehoer/`}>Zubehör</Out><Out href={`${official}/beratung/`}>Beratung</Out></div><div><b>Für Unternehmen in Deutschland</b><p>Wissen für mobile Markenräume, professionelle Einsätze und eine fundierte Projektvorbereitung.</p></div></div><div className="wrap legal"><span>Konzeptstand · 11. Juli 2026</span><Out href="https://github.com/step-into-ai/protent-geo-demo/blob/main/SOURCE-MAP.md">Informationsquellen</Out></div></footer>
   </>
 }

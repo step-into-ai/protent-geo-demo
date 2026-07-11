@@ -26,7 +26,7 @@ Eine Lamellenwand nutzt die Höhe des Standes und hält Produkte aus der reinen 
 
 Die Wand sollte die Hauptblickachse unterstützen, ohne Eingang oder Beratung zu blockieren. Steht sie zu nah an einer Theke, entsteht ein Engpass. Liegt sie hinter dem Team, werden Produkte möglicherweise verdeckt. Zeichnen Sie deshalb die Fläche einschließlich geöffneter Zugänge, Mobiliar und typischer Personenpositionen. Für wechselnde Sortimente ist ein dokumentiertes Belegungsraster hilfreicher als eine spontane Anordnung vor Ort.
 
-## Vier Entscheidungskriterien
+## Warenpräsentation mit System
 
 1. **Sortimentsaufgabe:** Aufmerksamkeit, Musterpräsentation, Selbstentnahme oder Beratung je Produktgruppe bestimmen.
 2. **Raumposition:** Sichtlinie, Reichweite, Eingang, Theke und freie Bewegungswege zusammen prüfen.
@@ -44,7 +44,7 @@ Die Wand sollte die Hauptblickachse unterstützen, ohne Eingang oder Beratung zu
 
 Pro-Tent beschreibt die Prospektablage als schwenkbar und für Flyer, Broschüren sowie Kataloge vorgesehen; als Material wird eloxiertes Aluminium genannt. Beim MODUL 4000 dienen Systemnuten als Ankerpunkte für Querverbinder und unterschiedliche Ausstattung. Die Produktseite nennt Regale und den schwenkbaren Prospekthalter als Beispiele. Wie diese Elemente im Gesamtsystem eingesetzt werden, erläutert [MODUL 4000](/modul-4000/).
 
-Für die Lamellenwand ist keine pauschale Traglast aus einem allgemeinen Überblick abzuleiten. Entscheidend sind die aktuelle Spezifikation des konkreten Sets, die vorgesehenen Warenträger und deren Anordnung. Produktgewicht und Stückzahl gehören deshalb in die Anfrage und in den finalen Belegungsplan. Eigenständige Ergänzungen sollten nicht allein aufgrund optischer Passung eingeplant werden.
+Die Traglast richtet sich nach der aktuellen Spezifikation des konkreten Sets, den vorgesehenen Warenträgern und ihrer Anordnung. Produktgewicht und Stückzahl gehören deshalb in die Anfrage und in den finalen Belegungsplan. Eigenständige Ergänzungen sollten nicht allein aufgrund optischer Passung eingeplant werden.
 
 Gestalterisch braucht eine Warenwand Priorität. Ordnen Sie Produkte in wenigen Gruppen, lassen Sie bewusst freie Zonen und halten Sie Beschriftungen kurz. Broschüren können Detailinformationen übernehmen, sollten aber nicht jedes Produkt duplizieren. Bei einem betreuten Stand kann die Wand als Einstieg in das Gespräch dienen; bei Selbstentnahme müssen Erreichbarkeit und Nachfüllung stärker berücksichtigt werden.
 
@@ -62,13 +62,13 @@ Pro-Tent nennt Messeauftritte, Veranstaltungen und Promotion-Aktionen.
 Sie ist für Flyer, Broschüren und Kataloge vorgesehen.
 
 ### Ist die Prospektablage beweglich?
-Ja. Die offizielle Produktbeschreibung bezeichnet sie als schwenkbar.
+Ja. Pro-Tent beschreibt die Prospektablage als schwenkbar.
 
 ### Welche Traglast gilt für die Lamellenwand?
 Verwenden Sie nur den aktuell bestätigten Wert für das konkrete Set einschließlich der vorgesehenen Warenträger.
 
 ### Passt jeder Warenträger an die Wand?
-Das darf nicht vorausgesetzt werden. Kompatibilität und Befestigung müssen anhand der aktuellen Produktspezifikation abgestimmt werden.
+Kompatibilität und Befestigung müssen anhand der aktuellen Produktspezifikation abgestimmt werden.
 
 ## Nächster Schritt
 

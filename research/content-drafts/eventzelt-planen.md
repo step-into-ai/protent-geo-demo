@@ -26,9 +26,9 @@ Ein Eventzelt wird vom Nutzungsszenario nach außen geplant: Zuerst kommen Perso
 
 Während des Aufbaus ist das Zelt eine Baustelle im Kleinen, während der Veranstaltung ein Besucherraum und danach ein Logistikobjekt. Gute Planung berücksichtigt alle drei Zustände. Erfassen Sie nicht nur die maximale Besucherzahl, sondern auch Personal, Theken, Technik, Vorräte und Bewegungen. Der Zugang für Gäste darf nicht mit Nachfüll- oder Servicewegen kollidieren.
 
-Die offizielle Größenhilfe nennt Personen, Mobiliar, Waren, Zugänge und freie Wege als relevante Einflussgrößen. Pro-Tent führt Events zusammen mit Promotion und Messen als Einsatzbereich. Die reguläre Größenübersicht reicht von 1,5 × 1,5 m bis 8 × 4 m; Modellzuordnung und tatsächliche Verfügbarkeit sind separat zu prüfen. Große Flächen können durch ein großes Format oder durch verbundene Einheiten entstehen – beides verlangt einen passenden Betriebsplan.
+Die Pro-Tent-Größenhilfe berücksichtigt Personen, Mobiliar, Waren, Zugänge und freie Wege. Pro-Tent führt Events zusammen mit Promotion und Messen als Einsatzbereich. Die reguläre Größenübersicht reicht von 1,5 × 1,5 m bis 8 × 4 m; Modellzuordnung und tatsächliche Verfügbarkeit sind separat zu prüfen. Große Flächen können durch ein großes Format oder durch verbundene Einheiten entstehen – beides verlangt einen passenden Betriebsplan.
 
-## Vier Entscheidungskriterien
+## Die vier Säulen der Eventplanung
 
 1. **Nutzungszonen:** Empfang, Aufenthalt, Ausgabe, Technik, Lager und Servicewege sichtbar trennen.
 2. **Kapazität:** Personen und Einrichtung mit realen Maßen statt grober Quadratmeterannahmen einzeichnen.

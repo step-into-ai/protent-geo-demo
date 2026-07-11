@@ -27,7 +27,7 @@ Ein Messestand-System ist wirtschaftlich und organisatorisch interessant, wenn m
 
 Das MODUL 4000 basiert laut Hersteller auf einem Omegaprofil mit Systemnuten. Diese dienen als Ankerpunkte für Querverbinder und Ausstattung. Genannt werden beispielsweise Regale, eine schwenkbare Prospektablage und eine Beachflag-Halterung. Zusätzliche Standbeine können individuelle Konfigurationen und getrennte Bereiche unterstützen. Damit verbindet das System den mobilen Rahmen mit einer planbaren Innenausstattung.
 
-## Vier Entscheidungskriterien
+## Worauf es bei einem Messestandsystem ankommt
 
 1. **Messeportfolio:** Flächen, Standtypen und offene Seiten der geplanten Termine gegenüberstellen.
 2. **Funktionskonstanz:** Ermitteln, welche Zonen immer gebraucht werden und welche nur gelegentlich.
@@ -64,7 +64,7 @@ Sie bilden Ankerpunkte für Querverbinder und vorgesehene Ausstattung und unters
 Wenn wiederkehrende Funktionen auf verschiedenen Flächen mit dokumentierten, mehrfach nutzbaren Bauteilen umgesetzt werden sollen.
 
 ### Passt jede Ausstattung in jede Konfiguration?
-Das darf nicht vorausgesetzt werden. Größe, Profil, Adapter und aktuelle Zubehörspezifikation sind gemeinsam abzustimmen.
+Größe, Profil, Adapter und aktuelle Zubehörspezifikation sind gemeinsam abzustimmen.
 
 ### Ist ein Systemstand automatisch messekonform?
 Nein. Die konkrete Variante muss nach den aktuellen Regeln und Nachweisen des Veranstalters geprüft werden.

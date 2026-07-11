@@ -25,9 +25,9 @@ MODUL 4000 ist die Pro-Tent-Reihe für Teams, die Faltzelt und Ausbau als gemein
 
 Bei einem konventionell gedachten Stand werden Möbel und Werbemittel nach dem Aufbau hineingestellt. MODUL 4000 eröffnet eine andere Planung: Ausstattung kann an den Systemnuten des Profils ansetzen und damit Bestandteil der Raumstruktur werden. Der Hersteller beschreibt eine Aluminium-Speziallegierung für das Profilsystem. Zusätzliche Standbeine erweitern die Möglichkeiten bis hin zu separaten Räumen und Innenkabinen.
 
-Das ist besonders für Messeteams interessant, die ihre Fläche wiederholt neu konfigurieren. Ein Exponatbereich kann bei einem Termin wichtiger sein, beim nächsten werden mehr Prospekte oder ein abgeschirmtes Lager benötigt. Das MODUL-4000-System wird offiziell als Grundlage sowohl für Systemstände als auch individuelle Messeplanungen dargestellt. Dennoch sollte jede Variante als eigene Stückliste dokumentiert werden.
+Das ist besonders für Messeteams interessant, die ihre Fläche wiederholt neu konfigurieren. Ein Exponatbereich kann bei einem Termin wichtiger sein, beim nächsten werden mehr Prospekte oder ein abgeschirmtes Lager benötigt. Pro-Tent nutzt das MODUL-4000-System als Grundlage sowohl für Systemstände als auch individuelle Messeplanungen. Dennoch sollte jede Variante als eigene Stückliste dokumentiert werden.
 
-## Vier Entscheidungskriterien
+## Wo MODUL 4000 seinen Systemvorteil ausspielt
 
 1. **Integrationsbedarf:** Welche Elemente sollen am Profil sitzen, welche stehen unabhängig im Raum?
 2. **Raumprogramm:** Empfang, Präsentation, Gespräch, Lager und Wege als Zonen definieren.
@@ -45,7 +45,7 @@ Das ist besonders für Messeteams interessant, die ihre Fläche wiederholt neu k
 
 Systemfähigkeit ist kein Selbstzweck. Für ein kleines Team kann ein überfrachteter Aufbau die Rüstzeit erhöhen und die Fläche verengen. Markieren Sie deshalb jedes Element als „für Betrieb erforderlich“, „für Kommunikation nützlich“ oder „optional“. Erst die erforderlichen Teile bilden die Basiskonfiguration. Varianten werden separat ergänzt und in einer Packliste geführt.
 
-Für Messeprojekte sollte die Planung außerdem die Vorgaben des konkreten Veranstalters aufnehmen. Der Entwurf hier gibt keine pauschale Freigabe für Höhen, Fluchtwege, Brandschutz oder Standbau. Aktuelle Nachweise und Regeln müssen projektbezogen geprüft werden. Gleiches gilt für Traglasten von Warenpräsentationen: Verwenden Sie ausschließlich bestätigte technische Werte für das gewählte Set.
+Für Messeprojekte gehören die Vorgaben des konkreten Veranstalters früh in die Planung. Höhen, Fluchtwege, Brandschutz, Standbau und aktuelle Nachweise sind projektbezogen abzustimmen. Gleiches gilt für Traglasten von Warenpräsentationen: Verwenden Sie ausschließlich bestätigte technische Werte für das gewählte Set.
 
 Im Außeneinsatz bleibt die Befestigung unabhängig vom Innenausbau zu bewerten. Mehr Anbauteile können das reale Setup verändern; daher sind Untergrund, vollständige Konfiguration und aktuelle Bedingungen zu berücksichtigen. Eine Systemnut ist weder Sicherungsnachweis noch Ersatz für die Bedienungsanleitung.
 

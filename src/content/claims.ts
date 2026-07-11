@@ -14,7 +14,7 @@ export const claims = [
   { id: 'roadshow', text: 'Für wechselnde Eventstandorte sind Transport, Aufbau, Verankerung und konsistente Gestaltung gemeinsam zu planen.', sourceId: 'events', retrievedAt: date, status: 'editorial' },
   { id: 'three-print', text: 'Pro-Tent nennt drei Druckverfahren sowie Lösungen von Logodruck bis Vollbedruckung.', sourceId: 'printing', retrievedAt: date, status: 'official' },
   { id: 'print-accessories', text: 'Laut Druckservice kann auch Zubehör personalisiert werden.', sourceId: 'printing', retrievedAt: date, status: 'official' },
-  { id: 'print-choice', text: 'Motiv, Material, Einsatz und gewünschte Wirkung bestimmen die redaktionelle Auswahl des Druckansatzes.', sourceId: 'printing', retrievedAt: date, status: 'editorial' },
+  { id: 'print-choice', text: 'Motiv, Material, Einsatz und gewünschte Wirkung bestimmen, welcher Druckansatz zum Auftritt passt.', sourceId: 'printing', retrievedAt: date, status: 'editorial' },
   { id: 'accessory-categories', text: 'Das offizielle Zubehörangebot umfasst Lösungen für Ausbau, Beleuchtung, Transport und Befestigung.', sourceId: 'accessories', retrievedAt: date, status: 'official' },
   { id: 'accessory-task', text: 'Zubehör sollte nach Aufgabe, Standort und Ablauf ausgewählt werden, nicht als isolierte Ergänzung.', sourceId: 'accessories', retrievedAt: date, status: 'editorial' },
   { id: 'fixing-required', text: 'Die Befestigung oder Beschwerung muss zum Untergrund und zur Situation vor Ort passen.', sourceId: 'fixing', retrievedAt: date, status: 'editorial' },

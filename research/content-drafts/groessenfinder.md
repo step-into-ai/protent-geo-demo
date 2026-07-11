@@ -24,9 +24,9 @@ Die passende Faltzeltgröße ergibt sich aus den geplanten Funktionen, nicht aus
 
 Ein Größenfinder sollte keine scheinbar exakte Kapazität aus Quadratmetern ableiten. Derselbe Grundriss kann als offener Infopunkt funktionieren, mit Theke, Exponaten und Lager aber schnell dicht wirken. Beginnen Sie deshalb mit einer Liste aller Tätigkeiten: begrüßen, beraten, präsentieren, ausgeben, arbeiten und lagern. Ergänzen Sie reale Maße der Ausstattung und markieren Sie Ein- und Ausgänge.
 
-Die offizielle Größenübersicht dokumentiert eine reguläre Spanne von 1,5 × 1,5 m bis 8 × 4 m. Sie weist außerdem auf anfragbare individuelle Größen hin. Nicht jedes Format ist automatisch jeder Reihe zugeordnet. Nach der Flächenentscheidung muss daher die aktuelle Kombination aus Größe, Modell und Ausstattung geprüft werden. Einen Einstieg in die Reihen 2000, MODUL 4000 und 5000 bietet die [Faltzelt-Übersicht](/faltzelte-overview/).
+Die Pro-Tent-Größenübersicht reicht regulär von 1,5 × 1,5 m bis 8 × 4 m. Sie weist außerdem auf anfragbare individuelle Größen hin. Nicht jedes Format ist automatisch jeder Reihe zugeordnet. Nach der Flächenentscheidung muss daher die aktuelle Kombination aus Größe, Modell und Ausstattung geprüft werden. Einen Einstieg in die Reihen 2000, MODUL 4000 und 5000 bietet die [Faltzelt-Übersicht](/faltzelte-overview/).
 
-## Vier Kriterien für die Größenwahl
+## In vier Schritten zur passenden Größe
 
 1. **Funktionen:** Empfang, Präsentation, Gespräch, Ausgabe und Lager als getrennte Flächen erfassen.
 2. **Einrichtung:** Theken, Exponate, Technik und Waren mit ihren tatsächlichen Abmessungen einzeichnen.
@@ -50,7 +50,7 @@ Für Außenstandorte kommt die standortbezogene Befestigung hinzu. Sie ist kein 
 ## Häufige Fragen
 
 ### Welche Größenspanne nennt Pro-Tent?
-Die offizielle Übersicht reicht regulär von 1,5 × 1,5 m bis 8 × 4 m.
+Die Pro-Tent-Übersicht reicht regulär von 1,5 × 1,5 m bis 8 × 4 m.
 
 ### Sind individuelle Größen möglich?
 Laut Größenübersicht können individuelle Größen angefragt werden. Machbarkeit und Ausführung sind konkret abzustimmen.
@@ -59,7 +59,7 @@ Laut Größenübersicht können individuelle Größen angefragt werden. Machbark
 Eine pauschale Zahl wäre ohne Nutzung und Einrichtung nicht belastbar. Planen Sie Personen, Möbel, Waren und Wege gemeinsam.
 
 ### Ist jede Größe in jeder Modellreihe erhältlich?
-Nein, das sollte nicht vorausgesetzt werden. Prüfen Sie die aktuelle Modellzuordnung nach der Flächenwahl.
+Prüfen Sie nach der Flächenwahl die aktuelle Modellzuordnung.
 
 ### Was ist der nächste Schritt nach dem Layout?
 Vergleichen Sie Modellreihe, Ausstattung, Druckflächen und Logistik. Für Außeneinsätze folgt zusätzlich ein standortgerechtes [Befestigungskonzept](/faltzelt-befestigen/).

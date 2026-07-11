@@ -27,7 +27,7 @@ Ein professionelles Faltzelt wird wiederholt transportiert, aufgebaut, ausgestat
 
 Pro-Tent stellt auf seiner Materialseite robuste Hightech-Materialien in den Zusammenhang mit langer Produktnutzung. Die Fertigungsseite beschreibt die Herstellung als Kombination aus Fertigung und Handarbeit. Für das [MODUL 4000](/modul-4000/) nennt der Hersteller eine Aluminium-Speziallegierung sowie ein Omegaprofil mit Systemnuten. Diese Nuten dienen als Ankerpunkte für Querverbinder und Ausstattung. Daraus folgt keine pauschale Überlegenheit; es beschreibt eine konkrete Systemfunktion, die bei geplantem Innenausbau relevant sein kann.
 
-## Vier Kriterien für die Materialwahl
+## Materialqualität im Einsatz beurteilen
 
 1. **Einsatzprofil:** Häufigkeit, Transportwege, Innen- oder Außennutzung und gewünschte Ausstattung schriftlich festhalten.
 2. **Konstruktionsbezug:** Material, Profilform, Verbindungen und Textilien immer der konkreten Modell- und Bauteilausführung zuordnen.
@@ -45,7 +45,7 @@ Pro-Tent stellt auf seiner Materialseite robuste Hightech-Materialien in den Zus
 
 Materialprüfung gehört daher vor die Bestellung. Wenn ein Veranstalter etwa eine Klassifikation verlangt, genügt kein allgemeiner Hinweis auf „Hightech“. Benötigt wird die aktuell gültige Dokumentation für Stoff, Modell und Auftrag. Auch ähnliche Begriffe aus unterschiedlichen Normsystemen dürfen nicht ohne fachlichen Beleg gleichgesetzt werden. Die Einsatzfreigabe bleibt eine konkrete Prüfung.
 
-Im laufenden Betrieb entscheidet die Organisation mit. Die offizielle Pflege-Seite behandelt die fachgerechte Reinigung von Stoffdach und Seitenwänden. Ein Rücklaufcheck sollte Verschmutzungen, Feuchtigkeit, Scheuerstellen und beschädigte Bauteile erfassen. Danach folgen passende Reinigung, vollständige Trocknung und geordnete Lagerung. Der Leitfaden zu [Transport, Pflege und Reparatur](/transport-pflege-reparatur/) übersetzt dies in einen wiederholbaren Ablauf.
+Im laufenden Betrieb entscheidet die Organisation mit. Pro-Tent erläutert die fachgerechte Reinigung von Stoffdach und Seitenwänden. Ein Rücklaufcheck sollte Verschmutzungen, Feuchtigkeit, Scheuerstellen und beschädigte Bauteile erfassen. Danach folgen passende Reinigung, vollständige Trocknung und geordnete Lagerung. Der Leitfaden zu [Transport, Pflege und Reparatur](/transport-pflege-reparatur/) übersetzt dies in einen wiederholbaren Ablauf.
 
 Für die Auswahl lohnt außerdem der Vergleich mit den benötigten Funktionen: Soll lediglich eine freie Fläche überdacht werden, oder sind Raumteiler, Regale und Prospekthalter vorgesehen? Die [Faltzelt-Übersicht](/faltzelte-overview/) ordnet Reihen und Einsätze ein. So wird Material nicht isoliert bewertet, sondern gemeinsam mit Größe, Ausbau und Logistik.
 

@@ -22,11 +22,11 @@ Bedruckte Seitenwände verbinden Raumabschluss und Markenkommunikation. Pro-Tent
 
 ## Die Wandfunktion vor dem Motiv bestimmen
 
-Eine Seitenwand ist nicht nur eine rechteckige Werbefläche. Sie kann einen Hintergrund für Gespräche bilden, Waren rahmen, Einblicke begrenzen oder Besucher zum Eingang führen. Deshalb beginnt die Planung mit dem Layout. Zeichnen Sie ein, welche Seite dauerhaft geschlossen bleibt, wo ein Zugang benötigt wird und welche Wand je nach Standort entfällt. Die offizielle Zubehörseite beschreibt verschiedene Ausführungen für unterschiedliche Anforderungen des Zeltabschlusses.
+Eine Seitenwand ist nicht nur eine rechteckige Werbefläche. Sie kann einen Hintergrund für Gespräche bilden, Waren rahmen, Einblicke begrenzen oder Besucher zum Eingang führen. Deshalb beginnt die Planung mit dem Layout. Zeichnen Sie ein, welche Seite dauerhaft geschlossen bleibt, wo ein Zugang benötigt wird und welche Wand je nach Standort entfällt. Pro-Tent bietet verschiedene Ausführungen für unterschiedliche Anforderungen an den Zeltabschluss.
 
 Erst auf dieser Grundlage bekommt jede Fläche eine Kommunikationsrolle. Eine Rückwand kann die Markenwelt tragen, während eine seitliche Fläche eine kurze Produktbotschaft oder Richtung vorgibt. Wird derselbe Stand als Reihen- und Eckstand genutzt, braucht es Varianten. Ein Motiv, das im Reihenstand gut sichtbar ist, kann beim Eckstand einen wichtigen Zugang verdecken oder in die falsche Laufrichtung zeigen.
 
-## Vier Entscheidungskriterien
+## Von der Sichtachse zur fertigen Seitenwand
 
 1. **Wandfunktion:** Sichtschutz, Hintergrund, Besucherführung oder Produktinformation eindeutig priorisieren.
 2. **Sichtachse:** Hauptrichtung, Betrachtungsdistanz und mögliche Verdeckung durch Menschen oder Mobiliar dokumentieren.
@@ -42,7 +42,7 @@ Erst auf dieser Grundlage bekommt jede Fläche eine Kommunikationsrolle. Eine R�
 | Seitliche Führung | kurze Botschaft, erkennbare Richtung | Unterstützt die Wand den gewünschten Eingang? |
 | Flexible Standseite | Motiv auch in Varianten verständlich | Funktioniert die Gestaltung offen und geschlossen? |
 
-Der Pro-Tent-Druckservice beschreibt drei Druckverfahren und unterschiedliche Umfänge bis zur Vollbedruckung. Daraus folgt keine pauschal beste Methode. Die Wahl gehört zum konkreten Motiv, zur ausgewählten Textilfläche und zu den aktuellen Produktionsanforderungen. Wer das ganze Zelt als Markenträger plant, sollte Seitenwände mit Dachvolants und Dachflächen abstimmen. Der Leitfaden [Faltzelt bedrucken](/faltzelt-bedrucken/) zeigt diese übergeordnete Hierarchie.
+Der Pro-Tent-Druckservice beschreibt drei Druckverfahren und unterschiedliche Umfänge bis zur Vollbedruckung. Die passende Methode richtet sich nach Motiv, ausgewählter Textilfläche und aktuellen Produktionsanforderungen. Wer das ganze Zelt als Markenträger plant, sollte Seitenwände mit Dachvolants und Dachflächen abstimmen. Der Leitfaden [Faltzelt bedrucken](/faltzelt-bedrucken/) zeigt diese übergeordnete Hierarchie.
 
 Für den Entwurf stellt Pro-Tent größenbezogene Gestaltungs-Vorlagen bereit. Sie helfen, Motivseiten zuzuordnen und erste Ansichten zu visualisieren. Prüfen Sie darin Logoabstände, Leserichtung, Schreibweisen und Übergänge. Eine Entwurfsvorlage ersetzt jedoch keine bestätigten Produktionsdaten. Dateiformat, Beschnitt, Farbmodus, Auflösung, Farbwiedergabe und freizugebende Datei werden anhand der aktuellen Vorgaben abgestimmt.
 
@@ -57,7 +57,7 @@ Ja. Der Druckservice beschreibt individualisierbare Zeltflächen; die genaue Sei
 Ja. Pro-Tent stellt unterschiedliche Ausführungen für verschiedene Funktionen des Zeltabschlusses vor.
 
 ### Wie groß kann der Druckumfang sein?
-Die offizielle Druckseite reicht von gezielter Logoplatzierung bis zu großflächig bedruckten Lösungen.
+Der Pro-Tent-Druckservice reicht von gezielter Logoplatzierung bis zu großflächig bedruckten Lösungen.
 
 ### Wozu dienen die Gestaltungs-Vorlagen?
 Sie visualisieren erste Entwürfe auf größenbezogenen Ansichten und unterstützen die eindeutige Zuordnung der Flächen.

@@ -27,7 +27,7 @@ Ein beschädigtes Faltzelt ist nicht automatisch ein Garantiefall. Garantie rich
 
 Pro-Tent setzt laut Garantiebestimmungen einen korrekten Einsatz gemäß Bedienungsanleitung und Gefahrenhinweisen voraus. Die Bedingungen unterscheiden Fristen und Voraussetzungen nach Bauteil oder Mangelart. Maßgeblich ist deshalb stets die aktuelle Fassung, nicht eine verkürzte Aussage aus einer älteren Unterlage. Garantie ist zudem nicht mit gesetzlicher Gewährleistung oder einer zugesagten Dauer der Ersatzteilverfügbarkeit gleichzusetzen.
 
-## Vier Kriterien für einen Servicefall
+## Servicefälle strukturiert vorbereiten
 
 1. **Produktidentifikation:** Reihe, Größe, Ausführung, Bauteil und vorhandene Kaufunterlagen eindeutig erfassen.
 2. **Schadensbild:** Fotos, Zeitpunkt, betroffene Funktion und sichtbaren Zustand sachlich dokumentieren.
@@ -44,7 +44,7 @@ Pro-Tent setzt laut Garantiebestimmungen einen korrekten Einsatz gemäß Bedienu
 | Textil ist verschmutzt | Pflegehinweise prüfen | Textilausführung und Verschmutzung |
 | Ursache ist unklar | Nutzung pausieren und fachlich klären | vollständige Dokumentation |
 
-Die offizielle Reparaturseite verbindet Ersatzteilversorgung mit einer längeren Nutzung. Sie liefert damit einen wichtigen Ansatz für den Betrieb: Nicht das gesamte System vorschnell ersetzen, sondern zunächst das betroffene Bauteil identifizieren und den passenden Reparaturweg erfragen. Eine pauschale Aussage zur Verfügbarkeit jedes Teils oder zu einer festen Lieferdauer lässt sich daraus jedoch nicht ableiten.
+Pro-Tent verbindet Ersatzteilversorgung mit einer längeren Nutzung. Das liefert einen wichtigen Ansatz für den Betrieb: Nicht das gesamte System vorschnell ersetzen, sondern zunächst das betroffene Bauteil identifizieren und den passenden Reparaturweg erfragen. Eine pauschale Aussage zur Verfügbarkeit jedes Teils oder zu einer festen Lieferdauer lässt sich daraus jedoch nicht ableiten.
 
 Vor dem nächsten Einsatz sollte die verantwortliche Person den Abschluss dokumentieren: Was wurde ersetzt oder repariert? Welche Prüfung erfolgte? Ist die Stückliste wieder vollständig? Der Leitfaden [Transport, Pflege und Reparatur](/transport-pflege-reparatur/) zeigt, wie Rücklauf, Reinigung und Instandhaltung verbunden werden. Die Seite zu [Hightech-Materialien](/hightech-materialien/) hilft, Bauteile und Nachweise konkret zuzuordnen.
 
@@ -65,7 +65,7 @@ Nein. Ersatzteilversorgung kann auch außerhalb eines bestätigten Garantieanspr
 Produkt und Größe, Kaufunterlagen, betroffenes Bauteil, Fotos, Schadenszeitpunkt sowie Informationen zu Aufbau und Einsatz.
 
 ### Darf ein beschädigtes Zelt weiter genutzt werden?
-Das sollte nicht pauschal angenommen werden. Nutzung pausieren und die weitere Vorgehensweise anhand des konkreten Schadens fachlich abstimmen.
+Pausieren Sie die Nutzung und stimmen Sie das weitere Vorgehen anhand des konkreten Schadens fachlich ab.
 
 ## Serviceprozess vorbereiten
 

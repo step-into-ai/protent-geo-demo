@@ -26,9 +26,9 @@ Ein langlebiger Faltzeltbetrieb verbindet geschützten Transport, materialgerech
 
 Verschleiß zeigt sich nicht nur während einer Veranstaltung. Hektisches Verladen, unvollständig getrocknete Textilien oder fehlende Kleinteile können den nächsten Einsatz beeinträchtigen. Behandeln Sie Transport, Pflege und Reparatur deshalb als einen Kreislauf: Rücklauf kontrollieren, reinigen, trocknen, prüfen, instand setzen, vollständig packen und erst dann einlagern.
 
-Pro-Tent führt eine gepolsterte Transporttasche mit großen Laufrollen als Zubehör. Sie unterstützt die Logistik des Gestells, ersetzt aber keine passende Ladungssicherung oder sorgfältige Handhabung. Für Dach und Seitenwände verweist die offizielle Pflege-Seite auf eine fachgerechte Reinigung. Konkrete Mittel und Arbeitsschritte müssen zum jeweiligen Textil und den aktuellen Pflegehinweisen passen.
+Pro-Tent führt eine gepolsterte Transporttasche mit großen Laufrollen als Zubehör. Sie unterstützt die Logistik des Gestells, ersetzt aber keine passende Ladungssicherung oder sorgfältige Handhabung. Für Dach und Seitenwände erläutert Pro-Tent die fachgerechte Reinigung. Konkrete Mittel und Arbeitsschritte müssen zum jeweiligen Textil und den aktuellen Pflegehinweisen passen.
 
-## Vier Kriterien für den Materialkreislauf
+## Ein verlässlicher Kreislauf für Ihr Material
 
 1. **Transport:** Packeinheiten kennzeichnen, vollständig erfassen und vor ungeeigneter Belastung schützen.
 2. **Pflege:** Dach und Seitenwände nach den aktuellen, materialbezogenen Herstellerhinweisen reinigen.

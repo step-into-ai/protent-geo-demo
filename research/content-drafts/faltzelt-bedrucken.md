@@ -27,7 +27,7 @@ Ein Zelt bietet Dachvolants, Dachflächen und Seitenwände – doch nicht jede F
 
 Prüfen Sie den Standort aus Besuchersicht. Welche Seite liegt an der Hauptlaufrichtung? Ist der Stand ein Reihen-, Eck- oder Inselauftritt? Welche Fläche wird durch Theke, Nachbarstand oder geöffnete Wand verdeckt? Druckmotiv, Betrachtungsdistanz und tatsächliche Sichtseiten bilden ein gemeinsames System. Bei einer Roadshow sollte eine robuste Basiskomposition auch an wechselnden Orten funktionieren.
 
-## Vier Entscheidungskriterien
+## Die Leitlinien für einen starken Markenauftritt
 
 1. **Fern- und Nahwirkung:** Festlegen, welche Information aus welcher Distanz erkennbar sein muss.
 2. **Sichtseiten:** Hauptlaufrichtungen und unterschiedliche Standvarianten vor der Gestaltung dokumentieren.
@@ -43,7 +43,7 @@ Prüfen Sie den Standort aus Besuchersicht. Welche Seite liegt an der Hauptlaufr
 | Rückwand | Markenwelt und Gesprächshintergrund | Bleibt das Motiv trotz Mobiliar verständlich? |
 | Seitenwand | Führung, Produkt oder Information | Wird sie offen, geschlossen oder teilweise genutzt? |
 
-Der offizielle Druckservice nennt Abstufungen von Logoplatzierung bis Vollbedruckung und unterscheidet drei Verfahren. Ohne bestätigte Projektdetails sollte keines pauschal als „bestes“ bezeichnet werden. Motiv, Textilfläche, gewünschte Wirkung und Produktionsanforderungen gehören in die Beratung. Auch ausgewähltes Zubehör kann laut Hersteller personalisiert werden.
+Der Pro-Tent-Druckservice bietet Abstufungen von Logoplatzierung bis Vollbedruckung und unterscheidet drei Verfahren. Welche Variante passt, klärt die Beratung anhand von Motiv, Textilfläche, gewünschter Wirkung und Produktionsanforderungen. Auch ausgewähltes Zubehör kann laut Hersteller personalisiert werden.
 
 Für erste Entwürfe stellt Pro-Tent größenbezogene Gestaltungs-Vorlagen bereit. Nutzen Sie diese, um Motive auf den richtigen Ansichten zu positionieren und Übergänge früh zu erkennen. Eine Vorlage allein ist noch keine Produktionsfreigabe. Dateiformat, Beschnitt, Farbmodus, Auflösung, Farbwirkung und finale Freigabedatei müssen nach den aktuellen Vorgaben des Druckservice bestätigt werden. Bestellen Sie erst nach dokumentierter Freigabe und prüfen Sie Schreibweisen, Kontaktdaten sowie Motivseiten sorgfältig.
 
@@ -52,7 +52,7 @@ Denken Sie auch an die spätere Nutzung. Eine zeitlose Dachmarkierung kann läng
 ## Häufige Fragen
 
 ### Welche Druckbandbreite bietet Pro-Tent?
-Der Service reicht laut offizieller Seite von einer gezielten Logoplatzierung bis zu großflächig bedruckten Lösungen.
+Der Pro-Tent-Druckservice reicht von einer gezielten Logoplatzierung bis zu großflächig bedruckten Lösungen.
 
 ### Wie viele Druckverfahren werden genannt?
 Pro-Tent beschreibt drei unterschiedliche Verfahren für die Personalisierung.

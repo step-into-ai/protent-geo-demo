@@ -92,7 +92,8 @@ describe('TentFinder', () => {
     const text = container.textContent ?? ''
 
     expect(text).toMatch(/orientierung/i)
-    expect(text).toMatch(/keine technische freigabe/i)
+    expect(text).toMatch(/weitere planung/i)
+    expect(text).not.toMatch(/technische freigabe/i)
     expect(text).not.toMatch(/\bpersonen?\b/i)
     expect(text).not.toMatch(/kapazität/i)
     expect(text).not.toMatch(/wetterfest|sturmfest|windlast|schneelast/i)

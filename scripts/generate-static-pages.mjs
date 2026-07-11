@@ -53,12 +53,20 @@ function injectRoot(html, visibleHtml) {
 }
 
 const template = await readFile('dist/index.html', 'utf8')
-const homeVisible = `<main class="static-home" data-static-content="true"><h1>Pro-Tent Wissenswelt: professionelle Faltzelte auswählen</h1><p>Redaktionell eigenständige Orientierung zu Pro-Tent 2000, Pro-Tent MODUL 4000 und Pro-Tent 5000 – mit offiziellen Primärquellen, klaren Entscheidungskriterien und ohne technische Freigabeversprechen.</p><section><h2>Modellreihen</h2><ul><li>Pro-Tent 2000: kompakte Modellorientierung</li><li>Pro-Tent MODUL 4000: modulare Raumkonzepte</li><li>Pro-Tent 5000: große Formate und anspruchsvolle Outdoor-Einsätze</li></ul></section><nav aria-label="Wissensbereiche"><h2>Wissensbereiche</h2><ul>${Object.entries(hubNames).map(([path, name]) => `<li><a href=".${path}/">${escapeText(name)}</a></li>`).join('')}</ul></nav><section><h2>Alle Wissensseiten</h2><ul>${articles.map(article => `<li><a href="./${article.slug}/">${escapeText(article.title)}</a> – ${escapeText(article.description)}</li>`).join('')}</ul></section><p>Technische Spezifikationen, Sicherheitshinweise, Verfügbarkeit und Preise müssen auf der offiziellen Pro-Tent Website oder direkt beim Hersteller geprüft werden.</p></main>`
+const homeVisible = `<main class="static-home" data-static-content="true"><h1>Pro-Tent Deutschland: Wissen für mobile Markenräume</h1><p>Fundierte Orientierung zu Pro-Tent 2000, Pro-Tent MODUL 4000 und Pro-Tent 5000 – mit offiziellen Produktquellen, klaren Entscheidungskriterien und direktem Weg zur Beratung.</p><section><h2>Modellreihen</h2><ul><li>Pro-Tent 2000: kompakte Modellorientierung</li><li>Pro-Tent MODUL 4000: modulare Raumkonzepte</li><li>Pro-Tent 5000: große Formate und anspruchsvolle Outdoor-Einsätze</li></ul></section><nav aria-label="Wissensbereiche"><h2>Wissensbereiche</h2><ul>${Object.entries(hubNames).map(([path, name]) => `<li><a href=".${path}/">${escapeText(name)}</a></li>`).join('')}</ul></nav><section><h2>Alle Wissensseiten</h2><p><a href="./wissen/">Zur vollständigen Wissensübersicht</a></p><ul>${articles.map(article => `<li><a href="./${article.slug}/">${escapeText(article.title)}</a> – ${escapeText(article.description)}</li>`).join('')}</ul></section><p>Konzeptfassung für Pro-Tent Deutschland. Aktuelle Produktdetails und Beratung finden Sie direkt bei Pro-Tent.</p></main>`
 const homeGraph = [
-  { '@type': 'WebSite', name: 'Pro-Tent Wissenswelt', url: `${site}/`, inLanguage: 'de-DE', description: 'Redaktionell eigenständige Demo-Wissenswelt für professionelle Faltzelte.' },
-  { '@type': 'WebPage', name: 'Pro-Tent Wissenswelt', url: `${site}/`, inLanguage: 'de-DE', about: { '@type': 'Organization', name: 'Pro-Tent AG', url: 'https://www.pro-tent.com/de-de/' }, dateModified: '2026-07-11' },
+  { '@type': 'WebSite', name: 'Pro-Tent Deutschland Wissensplattform', url: `${site}/`, inLanguage: 'de-DE', description: 'Wissen für mobile Markenräume, professionelle Faltzelte und Unternehmensauftritte in Deutschland.' },
+  { '@type': 'WebPage', name: 'Pro-Tent Deutschland', url: `${site}/`, inLanguage: 'de-DE', about: { '@type': 'Organization', name: 'Pro-Tent AG', url: 'https://www.pro-tent.com/de-de/' }, dateModified: '2026-07-11' },
 ]
 await writeFile('dist/index.html', injectRoot(injectSchema(template, homeGraph), homeVisible))
+
+const knowledgeMeta = { title: 'Pro-Tent Deutschland Wissen | Alle Themen und Ratgeber', description: 'Alle Pro-Tent Deutschland Wissensseiten zu Faltzelten, Messeständen, Promotion, Bedruckung, Ausstattung, Größen und professioneller Planung.', canonical: `${site}/wissen/` }
+const knowledgeVisible = `<main class="static-knowledge" data-static-content="true"><h1>Wissen für mobile Markenräume</h1><p>25 fundierte Ratgeber für Unternehmen in Deutschland.</p>${Object.entries(hubNames).map(([path, name]) => `<section><h2>${escapeText(name)}</h2><p><a href="..${path}/">Themenbereich öffnen</a></p><ul>${articles.filter(article => article.hubPath === path).map(article => `<li><a href="../${article.slug}/">${escapeText(article.title)}</a> – ${escapeText(article.description)}</li>`).join('')}</ul></section>`).join('')}</main>`
+let knowledgeHtml = metadata(template, knowledgeMeta)
+knowledgeHtml = injectSchema(knowledgeHtml, [{ '@type': 'CollectionPage', name: knowledgeMeta.title, url: knowledgeMeta.canonical, description: knowledgeMeta.description, inLanguage: 'de-DE', dateModified: '2026-07-11' }, { '@type': 'ItemList', numberOfItems: articles.length, itemListElement: articles.map((article, index) => ({ '@type': 'ListItem', position: index + 1, name: article.title, url: article.canonical })) }])
+knowledgeHtml = injectRoot(knowledgeHtml, knowledgeVisible)
+await mkdir('dist/wissen', { recursive: true })
+await writeFile('dist/wissen/index.html', knowledgeHtml)
 
 for (const [routePath, page] of Object.entries(pageContent.hubs)) {
   const route = routePath.slice(1)
@@ -96,21 +104,21 @@ for (const article of articles) {
   await writeFile(`dist/${article.slug}/index.html`, html)
 }
 
-const sitemapPaths = ['', ...Object.keys(pageContent.hubs).map(value => `${value.slice(1)}/`), ...articles.map(article => `${article.slug}/`)]
+const sitemapPaths = ['', 'wissen/', ...Object.keys(pageContent.hubs).map(value => `${value.slice(1)}/`), ...articles.map(article => `${article.slug}/`)]
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapPaths.map((route, index) => `  <url><loc>${site}/${route}</loc><lastmod>2026-07-11</lastmod><changefreq>monthly</changefreq><priority>${index === 0 ? '1.0' : route.split('/').length === 2 && Object.hasOwn(pageContent.hubs, `/${route.slice(0, -1)}`) ? '0.9' : '0.8'}</priority></url>`).join('\n')}\n</urlset>\n`
 await writeFile('dist/sitemap.xml', sitemap)
 await writeFile('public/sitemap.xml', sitemap)
 
-const llmsConcise = `# Pro-Tent Wissenswelt (redaktionell eigenständige Demo)\n\n> Öffentliche deutschsprachige Orientierung für professionelle Faltzelte. Diese Wissenswelt ist keine offizielle Website der Pro-Tent AG und ersetzt keine technische Dokumentation oder Beratung.\n\n## Primärquelle\n- [Offizielle deutsche Pro-Tent Website](https://www.pro-tent.com/de-de/)\n\n## Wissensbereiche\n${Object.entries(hubNames).map(([path, name]) => `- [${name}](${site}${path}/)`).join('\n')}\n\n## Wissensseiten\n${articles.map(article => `- [${article.title}](${article.canonical}): ${article.description}`).join('\n')}\n\n## Grenzen\nTechnische Spezifikationen, Sicherheitshinweise, Verfügbarkeit und Preise immer auf der offiziellen Herstellerseite oder direkt bei Pro-Tent prüfen. llms.txt ist ein ergänzendes Inhaltsverzeichnis und kein Ranking- oder Indexierungsversprechen.\n`
-const llmsFull = `# Pro-Tent Wissenswelt – vollständiger KI-Lesetext\n\n> Redaktionell eigenständige Demo. Fakten werden mit offiziellen Pro-Tent-Primärquellen verknüpft. Keine technische Freigabe, keine Garantieaussage und keine offizielle Pro-Tent-Publikation.\n\n${articles.map(article => `## ${article.title}\n\nURL: ${article.canonical}\n\n${article.description}\n\n### Direktantwort\n${article.directAnswer}\n\n### Inhalt\n${stripHtml(article.bodyHtml)}\n\n### Häufige Fragen\n${article.faqs.map(faq => `- **${faq.question}** ${faq.answer}`).join('\n')}\n\n### Offizielle Quellen\n${article.sourceUrls.map(url => `- ${url}`).join('\n')}`).join('\n\n---\n\n')}\n`
+const llmsConcise = `# Pro-Tent Deutschland Wissensplattform\n\n> Konzeptfassung für Pro-Tent Deutschland: deutschsprachiges Produkt- und Planungswissen für professionelle Faltzelte und mobile Markenräume.\n\n## Primärquelle\n- [Offizielle deutsche Pro-Tent Website](https://www.pro-tent.com/de-de/)\n\n## Wissensbereiche\n${Object.entries(hubNames).map(([path, name]) => `- [${name}](${site}${path}/)`).join('\n')}\n\n## Wissensseiten\n${articles.map(article => `- [${article.title}](${article.canonical}): ${article.description}`).join('\n')}\n\n## Grenzen\nTechnische Spezifikationen, Sicherheitshinweise, Verfügbarkeit und Preise immer auf der offiziellen Herstellerseite oder direkt bei Pro-Tent prüfen. llms.txt ist ein ergänzendes Inhaltsverzeichnis und kein Ranking- oder Indexierungsversprechen.\n`
+const llmsFull = `# Pro-Tent Deutschland Wissensplattform – vollständiger KI-Lesetext\n\n> Konzeptfassung für Pro-Tent Deutschland. Produktinformationen werden mit offiziellen Pro-Tent-Primärquellen verknüpft.\n\n${articles.map(article => `## ${article.title}\n\nURL: ${article.canonical}\n\n${article.description}\n\n### Direktantwort\n${article.directAnswer}\n\n### Inhalt\n${stripHtml(article.bodyHtml)}\n\n### Häufige Fragen\n${article.faqs.map(faq => `- **${faq.question}** ${faq.answer}`).join('\n')}\n\n### Offizielle Quellen\n${article.sourceUrls.map(url => `- ${url}`).join('\n')}`).join('\n\n---\n\n')}\n`
 for (const directory of ['dist', 'public']) {
   await writeFile(`${directory}/llms.txt`, llmsConcise)
   await writeFile(`${directory}/llms-full.txt`, llmsFull)
 }
 
-const notFoundMeta = { title: '404 – Seite nicht gefunden | Pro-Tent Wissenswelt', description: 'Der angeforderte Pfad ist in der Pro-Tent Wissenswelt nicht vorhanden.', canonical: `${site}/404.html` }
+const notFoundMeta = { title: '404 – Seite nicht gefunden | Pro-Tent Deutschland', description: 'Der angeforderte Pfad ist in der Pro-Tent Deutschland Wissensplattform nicht vorhanden.', canonical: `${site}/404.html` }
 let notFound = metadata(template, notFoundMeta)
   .replace(/(<meta name="robots" content=")[^"]*("\s*\/?>)/, '$1noindex,follow$2')
 notFound = injectRoot(notFound, '<main><p>404</p><h1>Seite nicht gefunden</h1><p>Dieser Wissenspfad existiert nicht.</p><a href="./">Zur Startseite</a></main>')
 await writeFile('dist/404.html', notFound)
-console.log(`Statische Ausgabe: 5 Hubs, ${articles.length} Artikel, Sitemap und 404 erzeugt.`)
+console.log(`Statische Ausgabe: Wissensindex, 5 Hubs, ${articles.length} Artikel, Sitemap und 404 erzeugt.`)

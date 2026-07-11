@@ -25,9 +25,9 @@ Pro-Tent positioniert das Format 6 × 3 m besonders im Messe- und Eventkontext. 
 
 Ein 6 × 3 m Faltzelt bietet nicht einfach „doppelt so viel“ wie ein kompaktes Format. Seine Proportion eröffnet andere Layouts: Funktionen lassen sich nebeneinander entlang einer Front oder nacheinander in der Tiefe ordnen. Gleichzeitig können lange Laufwege, unklare Eingänge oder eine schlecht genutzte Randzone entstehen. Entscheidend ist daher die Choreografie des Stands.
 
-Die offizielle Größenseite stellt 6 × 3 m insbesondere für Messen und Events dar. Pro-Tent führt diese Anwendungen in einem gemeinsamen Einsatzbereich. Das liefert einen Nutzungskontext, aber keine pauschale Freigabe für einen konkreten Veranstaltungsort. Auch die Modellzuordnung ist separat zu prüfen; nicht jede Größe ist automatisch in jeder Reihe verfügbar. Der [Größenfinder](/groessenfinder/) hilft beim Vergleich mit anderen Formaten.
+Pro-Tent stellt 6 × 3 m insbesondere für Messen und Events dar. Pro-Tent führt diese Anwendungen in einem gemeinsamen Einsatzbereich. Das liefert einen Nutzungskontext, aber keine pauschale Freigabe für einen konkreten Veranstaltungsort. Auch die Modellzuordnung ist separat zu prüfen; nicht jede Größe ist automatisch in jeder Reihe verfügbar. Der [Größenfinder](/groessenfinder/) hilft beim Vergleich mit anderen Formaten.
 
-## Vier Kriterien für 6 × 3 m
+## So spielt 6 × 3 m seine Stärken aus
 
 1. **Zonierung:** Ordnen Sie Empfang, Präsentation, Gespräch und Lager in einer verständlichen Folge an.
 2. **Frontwirkung:** Legen Sie fest, welche lange oder kurze Seite Besucher zuerst sehen und betreten.
@@ -51,11 +51,11 @@ Der Basisaufbau wird als werkzeuglos beschrieben, doch 6 × 3 m bleibt ein volls
 
 ## Häufige Fragen
 
-### Wofür wird 6 × 3 m offiziell positioniert?
+### Für welche Einsätze wird 6 × 3 m positioniert?
 Die Größenseite hebt insbesondere Messe- und Eventanwendungen hervor.
 
 ### Ist 6 × 3 m in jeder Pro-Tent-Reihe verfügbar?
-Das darf nicht vorausgesetzt werden. Prüfen Sie die aktuelle Modellzuordnung in Beratung und Konfiguration.
+Prüfen Sie die aktuelle Modellzuordnung in Beratung und Konfiguration.
 
 ### Wie teilt man die längliche Fläche sinnvoll auf?
 Ordnen Sie Kernfunktionen entlang eines klaren Besucherwegs und testen Sie Bedien- sowie Nachfüllprozesse im Layout.

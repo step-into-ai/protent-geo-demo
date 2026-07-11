@@ -27,7 +27,7 @@ Verbundene Faltzelte können Funktionsbereiche erweitern: etwa Empfang und Berat
 
 Pro-Tent führt zwei Outdoor-Verbindungsklammern. Sowohl die U-förmige als auch die flache Ausführung ist für das Verbinden und Stabilisieren zweier Faltzelte vorgesehen. Welche Variante zu Modell, Position und Zubehör passt, muss anhand der aktuellen Produktangaben abgestimmt werden. Die Dachrinne deckt den Zwischenraum ab und führt Wasser durch ein leichtes Gefälle in eine vorgesehene Richtung.
 
-## Vier Kriterien für verbundene Zelte
+## Worauf es beim Zeltverbund ankommt
 
 1. **Flächenlogik:** Funktionen, Durchgänge, Standbeinpositionen und Besucherwege in einem gemeinsamen Raster planen.
 2. **Systempassung:** Zeltmodelle, Größen, Klammerausführung, Montageposition und Dachrinne zusammen prüfen.
@@ -65,7 +65,7 @@ Sie deckt den Zwischenraum zwischen verbundenen Zelten ab und leitet Wasser mit 
 Nein. Jedes Zelt benötigt weiterhin eine vollständige, standortbezogene Befestigung.
 
 ### Können beliebige Größen verbunden werden?
-Das sollte nicht pauschal angenommen werden. Modell, Größe, Profil, Zubehör und aktuelle Kompatibilitätsangaben sind gemeinsam zu prüfen.
+Modell, Größe, Profil, Zubehör und aktuelle Kompatibilitätsangaben sind gemeinsam zu prüfen.
 
 ## Aufbau als Variante freigeben
 

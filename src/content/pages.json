@@ -3,7 +3,7 @@
     "/faltzelte": {
       "eyebrow": "Modellwelt",
       "title": "Faltzelte verstehen und passend auswählen",
-      "intro": "Ein professionelles Faltzelt wird nicht allein nach seiner Grundfläche ausgewählt. Einsatz, gewünschter Innenraum, Ausstattung, Transport und Standort gehören zusammen. Dieser Vergleich betrachtet die drei Modellreihen 2000, MODUL 4000 und 5000 mit unterschiedlichen Schwerpunkten und modellabhängigen Standardgrößen. Spezialisierte Lösungen wie Pro-Tent 5000 Rescue liegen außerhalb dieses Vergleichs. Technische Details führen direkt zu den offiziellen Produktseiten.",
+      "intro": "Ein professionelles Faltzelt wird nicht allein nach seiner Grundfläche ausgewählt. Einsatz, Innenraum, Ausstattung, Transport und Standort gehören zusammen. Die Pro-Tent-Reihen 2000, MODUL 4000 und 5000 setzen dabei unterschiedliche Schwerpunkte und sind in modellabhängigen Standardgrößen erhältlich. Spezialisierte Lösungen wie Pro-Tent 5000 Rescue ergänzen das Portfolio. Technische Details und aktuelle Produktangaben finden Sie direkt bei Pro-Tent.",
       "criteria": [
         { "title": "Einsatz klären", "text": "Regelmäßigkeit, Innen- oder Außeneinsatz und Aufgabe des Zelts zuerst beschreiben." },
         { "title": "Raum planen", "text": "Personen, Mobiliar, Waren, Zugänge und freie Bewegungsflächen berücksichtigen." },
@@ -12,19 +12,19 @@
       ],
       "meta": {
         "title": "Pro-Tent Faltzelte verstehen und auswählen | Wissenswelt",
-        "description": "Die drei Pro-Tent Modellreihen, Standardgrößen und zentrale Auswahlkriterien sachlich einordnen – mit belegten Quellen und offiziellen Produktlinks.",
+        "description": "Die drei Pro-Tent Modellreihen, Standardgrößen und zentralen Auswahlkriterien für professionelle Einsätze kompakt vergleichen.",
         "canonical": "https://step-into-ai.github.io/protent-geo-demo/faltzelte/"
       },
       "faqs": [
-        { "question": "Welche Modellreihen vergleicht diese Wissenswelt?", "answer": "Dieser Vergleich betrachtet Pro-Tent 2000, Pro-Tent MODUL 4000 und Pro-Tent 5000. Spezialisierte Lösungen wie Pro-Tent 5000 Rescue sind nicht ausgeschlossen, sondern liegen außerhalb dieses Vergleichs." },
+        { "question": "Welche Modellreihen stehen zur Auswahl?", "answer": "Das Faltzeltportfolio umfasst Pro-Tent 2000, Pro-Tent MODUL 4000 und Pro-Tent 5000. Spezialisierte Lösungen wie Pro-Tent 5000 Rescue ergänzen diese Auswahl." },
         { "question": "Ist jede Größe bei jedem Modell erhältlich?", "answer": "Nein. Die Größenübersicht ordnet Standardgrößen jeweils konkreten Modellreihen zu." },
-        { "question": "Was unterscheidet das MODUL 4000?", "answer": "Die offizielle Produktseite positioniert es als modulares System, unter anderem für Innenkabinen und integrierbares Zubehör." }
+        { "question": "Was unterscheidet das MODUL 4000?", "answer": "Pro-Tent positioniert es als modulares System, unter anderem für Innenkabinen und integrierbares Zubehör." }
       ]
     },
     "/messestaende": {
       "eyebrow": "Messe & Unternehmen",
       "title": "Messestände planen: vom Faltzelt zum Markenraum",
-      "intro": "Ein mobiler Messestand braucht mehr als eine passende Grundfläche: Sichtbarkeit, Gesprächszonen, Stauraum, offene Zugänge und ein nachvollziehbarer Aufbau bestimmen die Planung. Pro-Tent führt Messen im offiziellen Einsatzbereich und positioniert das MODUL 4000 für variable Raumkonzepte. Die Wissenswelt übersetzt diese belegten Grundlagen in eine klare, redaktionelle Entscheidungsfolge ohne unbelegte Aufbauzeit- oder Kapazitätsversprechen.",
+      "intro": "Ein mobiler Messestand braucht mehr als eine passende Grundfläche: Sichtbarkeit, Gesprächszonen, Stauraum, offene Zugänge und ein verlässlicher Aufbau bestimmen die Planung. Pro-Tent positioniert das MODUL 4000 für variable Raumkonzepte und bietet sowohl Systemstände als auch individuelle Messeplanung. So entsteht ein Markenraum, der Vertrieb, Präsentation und wiederkehrende Messeabläufe zusammenführt.",
       "criteria": [
         { "title": "Standaufgabe", "text": "Empfang, Beratung, Präsentation und Lagerbedarf als getrennte Funktionen notieren." },
         { "title": "Sichtachsen", "text": "Offene Seiten und Kommunikationsflächen aus den Besucherwegen heraus planen." },
@@ -33,19 +33,19 @@
       ],
       "meta": {
         "title": "Mobile Messestände mit Pro-Tent planen | Wissenswelt",
-        "description": "Messestand, Gesprächszonen, Innenraum und Markenwirkung mit belegten Pro-Tent Grundlagen planen und direkt zu offiziellen Details wechseln.",
+        "description": "Messestand, Gesprächszonen, Innenraum und Markenwirkung mit Pro-Tent systematisch für wiederkehrende Messeauftritte planen.",
         "canonical": "https://step-into-ai.github.io/protent-geo-demo/messestaende/"
       },
       "faqs": [
-        { "question": "Welches Modell passt zu einem modularen Messestand?", "answer": "Wenn variable Raumkonzepte oder Innenkabinen gefragt sind, ist das MODUL 4000 laut offizieller Positionierung der naheliegende Prüfpunkt. Die konkrete Wahl bleibt abhängig vom Setup." },
-        { "question": "Wie wird die Standgröße bestimmt?", "answer": "Plane Mobiliar, Exponate, Zugänge und Bewegungsflächen. Pauschale Personen-Kapazitäten nennt diese Wissenswelt bewusst nicht." },
+        { "question": "Welches Modell passt zu einem modularen Messestand?", "answer": "Wenn variable Raumkonzepte oder Innenkabinen gefragt sind, ist das MODUL 4000 der naheliegende Ausgangspunkt. Die konkrete Wahl richtet sich nach dem vollständigen Setup." },
+        { "question": "Wie wird die Standgröße bestimmt?", "answer": "Planen Sie Mobiliar, Exponate, Zugänge und Bewegungsflächen maßstäblich. Daraus ergibt sich die benötigte Standgröße belastbarer als aus einer allgemeinen Personenzahl." },
         { "question": "Kann ein Messestand bedruckt werden?", "answer": "Pro-Tent bietet Lösungen vom Logodruck bis zur Vollbedruckung; auch Zubehör kann laut Druckservice personalisiert werden." }
       ]
     },
     "/promotion-event": {
       "eyebrow": "Roadshow & Aktivierung",
       "title": "Promotion und Events konsistent planen",
-      "intro": "Bei Promotion und Events trifft Markenwirkung auf wechselnde Abläufe. Standort, Grundfläche, Sichtachsen, Transport, Aufbau, Zubehör und sichere Befestigung müssen als ein System gedacht werden. Pro-Tent führt Events, Promotion und Messen als offiziellen Einsatzbereich. Dieser Hub strukturiert die belegten Informationen für Roadshows und Aktionen, ohne pauschale Aussagen zu Wetter, Aufbauzeiten oder garantierter Eignung zu machen.",
+      "intro": "Bei Promotion und Events trifft Markenwirkung auf wechselnde Abläufe. Standort, Grundfläche, Sichtachsen, Transport, Aufbau, Zubehör und standortgerechte Befestigung müssen als ein System gedacht werden. Pro-Tent führt Events, Promotion und Messen als Einsatzbereiche mobiler Faltzelte. Eine dokumentierte Basiskonfiguration sorgt dafür, dass Roadshows und Aktionen an jedem Standort konsistent auftreten.",
       "criteria": [
         { "title": "Aktionsformat", "text": "Beratung, Sampling, Produktvorführung oder Organisation als Hauptaufgabe festlegen." },
         { "title": "Standortwechsel", "text": "Transportweg, Team, Aufbaufolge und Lagerung für jeden Stopp prüfen." },
@@ -54,19 +54,19 @@
       ],
       "meta": {
         "title": "Promotionzelt und Event-Setup planen | Pro-Tent Wissenswelt",
-        "description": "Promotion, Roadshow und Event anhand von Standort, Sichtbarkeit, Ausstattung und Befestigung planen – sachlich belegt mit offiziellen Pro-Tent Links.",
+        "description": "Promotion, Roadshow und Event anhand von Standort, Sichtbarkeit, Ausstattung und Befestigung professionell planen.",
         "canonical": "https://step-into-ai.github.io/protent-geo-demo/promotion-event/"
       },
       "faqs": [
         { "question": "Was gehört in die Roadshow-Planung?", "answer": "Neben Fläche und Gestaltung gehören Transport, Team, Befestigung, Ausstattung sowie Auf- und Abbau in den Ablauf." },
-        { "question": "Wie bleibt der Auftritt über Standorte konsistent?", "answer": "Ein wiederholbares Flächenraster, klar definierte Sichtseiten und zusammen geplante Druckelemente erleichtern die redaktionelle Planung." },
-        { "question": "Gibt es eine pauschale Windfreigabe?", "answer": "Nein. Diese Wissenswelt veröffentlicht keine Windfreigabe. Befestigung, Herstellerhinweise und Situation vor Ort sind entscheidend." }
+        { "question": "Wie bleibt der Auftritt über Standorte konsistent?", "answer": "Ein wiederholbares Flächenraster, klar definierte Sichtseiten und gemeinsam geplante Druckelemente sichern einen konsistenten Markenauftritt." },
+        { "question": "Wie wird die zulässige Windbelastung bestimmt?", "answer": "Maßgeblich sind die aktuellen Herstellerunterlagen für die konkrete Konfiguration sowie die Bedingungen und Vorgaben vor Ort." }
       ]
     },
     "/bedruckung": {
       "eyebrow": "Markenauftritt",
       "title": "Bedruckung als Markensystem planen",
-      "intro": "Bedruckung wirkt am besten, wenn Motiv, Sichtachsen und eingesetzte Elemente gemeinsam geplant werden. Der offizielle Pro-Tent Druckservice nennt drei Druckverfahren und Lösungen vom Logodruck bis zur Vollbedruckung; auch Zubehör kann personalisiert werden. Dieser Hub bleibt bewusst bei diesen belegten Aussagen und erfindet weder Dateivorgaben noch Farb-, UV- oder Haltbarkeitsversprechen.",
+      "intro": "Bedruckung wirkt am besten, wenn Motiv, Sichtachsen und eingesetzte Elemente gemeinsam geplant werden. Der Pro-Tent-Druckservice bietet drei Druckverfahren und Lösungen vom Logodruck bis zur Vollbedruckung; auch ausgewähltes Zubehör kann personalisiert werden. Verbindliche Druckdaten, Materialien und Freigaben werden passend zum konkreten Projekt abgestimmt.",
       "criteria": [
         { "title": "Botschaft", "text": "Eine Hauptaussage je relevanter Sichtseite priorisieren und Lesedistanz mitdenken." },
         { "title": "Flächen", "text": "Logo, Teilfläche oder Vollbedruckung nach Motiv und gewünschter Wirkung prüfen." },
@@ -75,33 +75,33 @@
       ],
       "meta": {
         "title": "Faltzelt-Bedruckung als Markensystem | Pro-Tent Wissenswelt",
-        "description": "Logodruck, Vollbedruckung und personalisierbares Zubehör aus belegten Pro-Tent Quellen einordnen und den Markenauftritt strukturiert planen.",
+        "description": "Logodruck, Vollbedruckung und personalisierbares Zubehör zu einem überzeugenden Pro-Tent Markenauftritt verbinden.",
         "canonical": "https://step-into-ai.github.io/protent-geo-demo/bedruckung/"
       },
       "faqs": [
-        { "question": "Welche Druckmöglichkeiten nennt Pro-Tent?", "answer": "Der offizielle Druckservice nennt drei Verfahren sowie Lösungen vom Logodruck bis zur Vollbedruckung." },
+        { "question": "Welche Druckmöglichkeiten nennt Pro-Tent?", "answer": "Der Pro-Tent-Druckservice nennt drei Verfahren sowie Lösungen vom Logodruck bis zur Vollbedruckung." },
         { "question": "Kann Zubehör personalisiert werden?", "answer": "Ja, der Druckservice weist ausdrücklich auf personalisierbares Zubehör hin." },
-        { "question": "Welche Druckdatei wird benötigt?", "answer": "Verbindliche Dateiformate werden hier nicht behauptet. Dafür sind die aktuellen Vorgaben und Gestaltungs-Vorlagen des Herstellers maßgeblich." }
+        { "question": "Welche Druckdatei wird benötigt?", "answer": "Maßgeblich sind die aktuellen Vorgaben und Gestaltungs-Vorlagen von Pro-Tent sowie die ausdrücklich freigegebene Produktionsdatei." }
       ]
     },
     "/ausstattung": {
       "eyebrow": "Zubehör & Innenraum",
       "title": "Ausstattung nach Aufgabe auswählen",
-      "intro": "Ausstattung sollte eine konkrete Aufgabe lösen: Zugang und Abgrenzung, Präsentation, Beleuchtung, Transport oder Befestigung. Die offizielle Zubehörübersicht bildet dafür den belegten Ausgangspunkt; das MODUL 4000 ergänzt den Kontext für Innenkabinen und integrierbares Zubehör. Dieser Hub ordnet die Auswahl redaktionell, ohne unbestätigte Traglasten, Kompatibilitäten oder Sicherheitsfreigaben zu versprechen.",
+      "intro": "Ausstattung sollte eine konkrete Aufgabe lösen: Zugang und Abgrenzung, Präsentation, Beleuchtung, Transport oder Befestigung. Das Pro-Tent-Zubehörprogramm bietet dafür zahlreiche Bausteine; MODUL 4000 erweitert die Möglichkeiten um Innenkabinen und integrierbare Ausstattung. Eine funktionsorientierte Auswahl hält Wege frei, unterstützt den Markenauftritt und erleichtert wiederkehrende Einsätze.",
       "criteria": [
         { "title": "Funktion", "text": "Schutz, Präsentation, Licht, Transport und Befestigung getrennt priorisieren." },
-        { "title": "Systembezug", "text": "Kompatibilität immer für gewählte Modellreihe und Größe offiziell prüfen." },
+        { "title": "Systembezug", "text": "Kompatibilität für die gewählte Modellreihe, Größe und Konfiguration bestätigen." },
         { "title": "Innenraum", "text": "Innenkabinen und direkt integrierte Lösungen im Kontext des MODUL 4000 ansehen." },
         { "title": "Standort", "text": "Befestigungsart erst nach Prüfung von Untergrund und Einsatzsituation wählen." }
       ],
       "meta": {
         "title": "Pro-Tent Ausstattung und Zubehör auswählen | Wissenswelt",
-        "description": "Ausstattung für Innenraum, Präsentation, Transport und Befestigung aufgabenorientiert einordnen – mit offiziellen Pro-Tent Quellen.",
+        "description": "Pro-Tent Ausstattung für Innenraum, Präsentation, Transport und Befestigung konsequent nach Aufgabe auswählen.",
         "canonical": "https://step-into-ai.github.io/protent-geo-demo/ausstattung/"
       },
       "faqs": [
-        { "question": "Wie beginne ich die Zubehörauswahl?", "answer": "Beginne mit der Aufgabe und dem Ablauf. Erst danach werden einzelne Zubehörkategorien sinnvoll vergleichbar." },
-        { "question": "Welches System ist für Innenkabinen dokumentiert?", "answer": "Die offizielle Produktseite des MODUL 4000 nennt Innenkabinen im Kontext modularer Raumkonzepte." },
+        { "question": "Wie beginne ich die Zubehörauswahl?", "answer": "Beginnen Sie mit Aufgabe und Ablauf. Erst danach lassen sich die einzelnen Zubehörkategorien sinnvoll vergleichen." },
+        { "question": "Welches System ist für Innenkabinen vorgesehen?", "answer": "Pro-Tent nennt Innenkabinen beim MODUL 4000 im Kontext modularer Raumkonzepte." },
         { "question": "Welche Befestigung passt immer?", "answer": "Keine pauschal. Untergrund, Wetter und Situation vor Ort bestimmen die Auswahl; aktuelle Herstellerhinweise sind maßgeblich." }
       ]
     }

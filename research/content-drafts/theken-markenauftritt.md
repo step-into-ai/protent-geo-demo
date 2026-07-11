@@ -25,9 +25,9 @@ Eine Theke strukturiert den Markenauftritt als sichtbaren Kontakt-, Arbeits- und
 
 Auf Messen, Promotionaktionen und Events entscheidet die Platzierung der Theke darüber, wie Besucher den Stand verstehen. Direkt am Eingang kann sie begrüßen, darf aber den Zugang nicht blockieren. Seitlich positioniert öffnet sie den Blick in den Stand. Als Ausgabepunkt benötigt sie Raum für eine Wartesituation. Deshalb beginnt die Planung nicht bei der Optik, sondern beim Ablauf: Wer steht wo, welche Handlung findet statt und was muss griffbereit sein?
 
-Pro-Tent führt mobile Theken als Zubehör für den mobilen Einsatz. Die Produktseite nennt zusätzlichen Stauraum und einen schnellen Auf- und Abbau. Daneben gibt es eine flexible Bartheke aus Holz für die Faltzeltausstattung. Das sind unterschiedliche Gestaltungs- und Betriebsansätze; eine pauschale Rangfolge wäre nicht sinnvoll. Entscheidend ist, welche Theke die definierte Aufgabe im konkreten Layout erfüllt.
+Pro-Tent führt mobile Theken als Zubehör für den mobilen Einsatz. Die Produktseite nennt zusätzlichen Stauraum und einen schnellen Auf- und Abbau. Daneben gibt es eine flexible Bartheke aus Holz für die Faltzeltausstattung. Beide Lösungen verfolgen unterschiedliche Gestaltungs- und Betriebsansätze. Entscheidend ist, welche Theke ihre Aufgabe im konkreten Layout am besten erfüllt.
 
-## Vier Kriterien für die Thekenwahl
+## Die passende Theke für Ihren Auftritt
 
 1. **Kontaktfunktion:** Empfang, Beratung, Ausgabe oder Abschluss als primäre Aufgabe der Theke festlegen.
 2. **Raumwirkung:** Eingang, Sichtachsen, Arbeitsseite, Wartesituation und freie Wege im Grundriss prüfen.
