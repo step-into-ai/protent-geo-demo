@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "title": "Quellennachweise Konkurrenzanalyse Pro-Tent",
+    "scope": "DACH/EU; professionelle Faltzelte, Promotionzelte und mobile Messestände",
+    "researched_at": "2026-07-11",
+    "language": "de",
+    "status": "interne Recherche, nicht zur automatischen Veröffentlichung",
+    "method": "Ausschließlich offizielle Anbieterquellen. URLs wurden am Recherchetag per HTTP-Aufruf real geöffnet; Redirect-Ziele sind angegeben. Aussagen sind paraphrasiert und bleiben Herstellerangaben, sofern keine unabhängige Zertifikatsdatei geprüft wurde.",
+    "missing_value": "nicht öffentlich bestätigt",
+    "competitor_selection": [
+      "Mastertent",
+      "Ecotent",
+      "VITABRI",
+      "E-Z UP Europe",
+      "QUICKUPTENT",
+      "Swiss Display"
+    ],
+    "selection_note": "Alle sechs adressieren professionelle, mobile Faltpavillons bzw. Promotion-/Eventstände in DACH/EU. Mastertent und Ecotent gehören laut Ecotent-Nachhaltigkeitsseite gemeinsam zur Zingerle Group; sie sind deshalb Markenalternativen, aber keine voneinander unabhängigen Unternehmensgruppen. Swiss Display ist Anbieter/Integrator, nicht als eigener Gestellhersteller bestätigt. Diese Einschränkungen müssen in jeder Marktanteils- oder Anbieterzählung sichtbar bleiben."
+  },
+  "risk_scale": {
+    "niedrig": "Wörtlich eng an eine aktuelle, eindeutige offizielle Quelle gebunden; Quelle und Stand nennen.",
+    "mittel": "Vergleich/Paraphrase oder produkt-/regionsabhängige Angabe; vor Veröffentlichung Produktzuordnung und Aktualität prüfen.",
+    "hoch": "Differenzierungs-, Alleinstellungs-, Sicherheits-, Garantie-, Rechts- oder Nachhaltigkeitsaussage; fachliche und rechtliche Freigabe erforderlich."
+  },
+  "sources": [
+    {
+      "id": "PT-01",
+      "provider": "Pro-Tent",
+      "url": "https://www.pro-tent.com/de-de/faltzelte/",
+      "http_status": 200,
+      "final_url": "https://www.pro-tent.com/de-de/faltzelte/",
+      "official": true,
+      "supports": ["Modellreihen 2000, MODUL 4000, 5000 und 5000 Rescue", "Aluminium-Speziallegierung", "Omega- bzw. Quadratprofile", "Verbindungsklammern und Dachrinnen", "Inhouse-Druck", "Zubehör und Theken"],
+      "caveat": "Bezeichnungen wie 'stabilster' und 'einzigartig' sind Eigenwerbung und kein neutraler Vergleichsnachweis."
+    },
+    {
+      "id": "PT-02",
+      "provider": "Pro-Tent",
+      "url": "https://www.pro-tent.com/de-de/faltzelte/pro-tent-modul-4000/",
+      "http_status": 200,
+      "final_url": "https://www.pro-tent.com/de-de/faltzelte/pro-tent-modul-4000/",
+      "official": true,
+      "supports": ["40-mm-Omegaprofil mit Systemnuten", "Seitenwand mit Kedersaum wird in Systemnut eingezogen", "Ankerpunkte für Querverbinder, Regale und Prospekthalter", "zusätzliche Standbeine für Innenkabinen", "5 Jahre Garantie auf Gestelle"],
+      "caveat": "Die Eigenbezeichnung 'einzigartig' ist nicht als Alleinstellungsnachweis verwertbar."
+    },
+    {
+      "id": "PT-03",
+      "provider": "Pro-Tent",
+      "url": "https://www.pro-tent.com/de-de/zubehoer/",
+      "http_status": 200,
+      "final_url": "https://www.pro-tent.com/de-de/zubehoer/",
+      "official": true,
+      "supports": ["Innenkabine/Raumteiler", "Vorhangsystem", "Lamellenwand aus Dibond für Produktpräsentation", "Bartheke und mobile Theken", "Dachrinne und Verbindungsklammern", "Querverbinder/Abschlussleisten"],
+      "caveat": "Keine Traglast der Lamellenwand auf der Übersichtsseite bestätigt."
+    },
+    {
+      "id": "PT-04",
+      "provider": "Pro-Tent",
+      "url": "https://www.pro-tent.com/de-de/druckservice/",
+      "http_status": 200,
+      "final_url": "https://www.pro-tent.com/de-de/druckservice/",
+      "official": true,
+      "supports": ["eigene Druckerei und Grafikabteilung", "Sublimation, Thermotransferfolie und Siebdruck", "Logo- bis Vollbedruckung", "beidseitiger Seitenwanddruck", "bedruckbares Zubehör"],
+      "caveat": "Witterungs- und UV-Aussagen sind Herstellerangaben; konkrete Lebensdauer ist nicht belegt."
+    },
+    {
+      "id": "PT-05",
+      "provider": "Pro-Tent",
+      "url": "https://www.pro-tent.com/de-de/garantiebestimmungen/",
+      "http_status": 200,
+      "final_url": "https://www.pro-tent.com/de-de/garantiebestimmungen/",
+      "official": true,
+      "supports": ["5 Jahre Gestellgarantie", "2 Jahre Dächer/Seitenwände", "2 Jahre Zubehör", "Leichtbauzelte für kurzzeitige Anwendungen", "Sicherungs- und Wetterausschlüsse"],
+      "caveat": "Garantie gilt nur unter den genannten Bedingungen; nie verkürzt ohne Link auf Bedingungen wiedergeben."
+    },
+    {
+      "id": "PT-06",
+      "provider": "Pro-Tent",
+      "url": "https://www.pro-tent.com/de-de/nachhaltigkeit/",
+      "http_status": 200,
+      "final_url": "https://www.pro-tent.com/de-de/nachhaltigkeit/",
+      "official": true,
+      "supports": ["Umstellung auf Recycling-Polyester ab 2023 angekündigt", "GRS-Zertifizierung der neuen Stoffe behauptet", "Nachhaltigkeitsbericht erwähnt", "Reparatur- und Ersatzteilservice erwähnt"],
+      "caveat": "Aktuelle Farb-/Modellabdeckung der Recyclingstoffe und ein gültiges Scope-Zertifikat wurden nicht unabhängig geprüft."
+    },
+    {
+      "id": "MT-01",
+      "provider": "Mastertent",
+      "url": "https://www.mastertent.com/de/faltpavillons/technische-details",
+      "http_status": 200,
+      "final_url": "https://www.mastertent.com/de/faltpavillons/technische-details",
+      "official": true,
+      "supports": ["achteckige Aluminiumprofile mit 2,5 mm Wandstärke", "Pirontex sowie Oxford 250D", "durchgängige Klettstreifen für Seitenwände", "EN 13501-1 als Brandschutznorm", "drei Drucktechniken"],
+      "caveat": "Mehrere Serien/Textilien stehen nebeneinander; Angaben nicht ohne Serienzuordnung kombinieren."
+    },
+    {
+      "id": "MT-02",
+      "provider": "Mastertent",
+      "url": "https://www.mastertent.com/de/faltpavillons/groessen",
+      "http_status": 200,
+      "final_url": "https://www.mastertent.com/de/faltpavillons/groessen",
+      "official": true,
+      "supports": ["12 Standardgrößen", "Serien 1 und 2", "Baukastensystem und kombinierbare Größen"],
+      "caveat": "Einzelne Größen stehen auf Unterseiten; Matrix nennt nur den auf der Übersicht klar belegten Bereich aus der Navigation."
+    },
+    {
+      "id": "MT-03",
+      "provider": "Mastertent",
+      "url": "https://www.mastertent.com/de/faltpavillons/zubehoer",
+      "http_status": 200,
+      "final_url": "https://www.mastertent.com/de/faltpavillons/zubehoer",
+      "official": true,
+      "supports": ["Seitenwände", "Regenrinne, Textil-Verbindungsstück und Verbindungsklemmen", "Schnell-Aufbau-Theke", "mindestens 15 Jahre Ersatzteile der Aluminiumstruktur"],
+      "caveat": "Keine Lamellenwand oder Innenkabine auf dieser offiziellen Zubehörübersicht öffentlich bestätigt. Das ist kein Nichtvorhandenseinsbeweis."
+    },
+    {
+      "id": "MT-04",
+      "provider": "Mastertent",
+      "url": "https://www.mastertent.com/de/service/garantien",
+      "http_status": 200,
+      "final_url": "https://www.mastertent.com/de/service/garantien",
+      "official": true,
+      "supports": ["5 Jahre Herstellergarantie Aluminiumstruktur", "lebenslange Garantie gegen Korrosion mit Bedingungen", "15 Jahre Ersatzteilverfügbarkeit Aluminiumstruktur", "Brandschutzklassen B-s1,d0 bzw. B-s2,d0 je Textil"],
+      "caveat": "Zertifikate und Klassen sind materialabhängig; Fußnoten und Garantiebedingungen prüfen."
+    },
+    {
+      "id": "MT-05",
+      "provider": "Mastertent",
+      "url": "https://www.mastertent.com/de/ueber-mastertent/nachhaltigkeit",
+      "http_status": 200,
+      "final_url": "https://www.mastertent.com/de/ueber-mastertent/nachhaltigkeit",
+      "official": true,
+      "supports": ["Nachhaltigkeitsprogramme", "Recyclingstoff aus 100 % recyceltem Material", "recycelbare Produktmaterialien"],
+      "caveat": "Viele Angaben sind Unternehmensdarstellung; konkrete Produkt-Scope- und Zertifikatsgültigkeit separat prüfen."
+    },
+    {
+      "id": "EC-01",
+      "provider": "Ecotent",
+      "url": "https://www.ecotent.at/en/products/pop-up-gazebos/quality-series",
+      "http_status": 200,
+      "final_url": "https://www.ecotent.at/en/products/pop-up-gazebos/quality-series",
+      "official": true,
+      "supports": ["Serien E1, E2, E3", "gerippte quadratische Aluminiumprofile mit Maßen/Wandstärken", "5 Jahre Garantie", "15 Jahre Ersatzteilverfügbarkeit", "Oxford 500D/250D", "Recyclingstoff aus 100 % Recyclingpolyester"],
+      "caveat": "Englische österreichische Markenquelle; Verfügbarkeit und Bedingungen für Deutschland/Schweiz prüfen."
+    },
+    {
+      "id": "EC-02",
+      "provider": "Ecotent",
+      "url": "https://www.ecotent.at/en/products/pop-up-gazebos/sizes",
+      "http_status": 200,
+      "final_url": "https://www.ecotent.at/en/products/pop-up-gazebos/sizes",
+      "official": true,
+      "supports": ["11 Standardgrößen", "serienbezogene Gewichte und Packmaße", "Verbindbarkeit mehrerer Zelte", "Raumteilung mit Seitenwänden"],
+      "caveat": "Die HTML-Auslese ordnet nicht jede Zahlenfolge sicher einer Größe zu; Einzelwerte deshalb nicht in der Matrix reproduziert."
+    },
+    {
+      "id": "EC-03",
+      "provider": "Ecotent",
+      "url": "https://www.ecotent.at/en/products/technical-details",
+      "http_status": 200,
+      "final_url": "https://www.ecotent.at/en/products/technical-details",
+      "official": true,
+      "supports": ["Aluminiumlegierung 6060", "E1-Bein 46 x 56,5 mm, 2,5 mm", "EN 13501-1:2018 B-s1,d0 für Oxford 500D/250D", "GRS-Hinweis", "werkzeuglos austauschbare Teile durch Bolzensystem"],
+      "caveat": "Herstellerseite fasst mehrere Textilien/Serien zusammen."
+    },
+    {
+      "id": "EC-04",
+      "provider": "Ecotent",
+      "url": "https://www.ecotent.at/en/products/pop-up-gazebos/modular-system",
+      "http_status": 200,
+      "final_url": "https://www.ecotent.at/en/products/pop-up-gazebos/modular-system",
+      "official": true,
+      "supports": ["Verbindungsklammern, Mittelverbinder und Regenrinne", "serien- und größenübergreifende Verbindung", "bedruckbare Verbinder", "bis zu vier Seitenwände"],
+      "caveat": "Keine spezielle Innenkabine oder Lamellenwand öffentlich bestätigt."
+    },
+    {
+      "id": "EC-05",
+      "provider": "Ecotent",
+      "url": "https://www.ecotent.at/en/products/branded-gazebos",
+      "http_status": 200,
+      "final_url": "https://www.ecotent.at/en/products/branded-gazebos",
+      "official": true,
+      "supports": ["Inhouse-Druckerei und Grafik", "Sublimation, Thermotransfer, Siebdruck", "ECO PASSPORT für Drucktinte", "2D/3D-Entwurf", "vollflächig und beidseitig bedruckbare Seitenwände"],
+      "caveat": "Zeitangaben und Qualitätsformulierungen sind Herstellerangaben."
+    },
+    {
+      "id": "EC-06",
+      "provider": "Ecotent",
+      "url": "https://www.ecotent.at/en/company/service/folding-gazebo-warranties",
+      "http_status": 200,
+      "final_url": "https://www.ecotent.at/en/company/service/folding-gazebo-warranties",
+      "official": true,
+      "supports": ["5 Jahre Garantie Aluminiumstruktur", "15 Jahre Originalersatzteile für Käufe ab 1.1.2025", "10 Jahre für frühere Käufe", "Brandschutz- und GRS-Hinweise"],
+      "caveat": "Garantiebedingungen und Kaufdatum zwingend nennen."
+    },
+    {
+      "id": "VI-01",
+      "provider": "VITABRI",
+      "url": "https://www.vitabri.de/zelte/faltpavillons/faltpavillon-v3/",
+      "http_status": 200,
+      "final_url": "https://www.vitabri.de/zelte/faltpavillons/faltpavillon-v3/",
+      "official": true,
+      "supports": ["V3 PRO in 20 Größen", "Aluprofile Ø 44/39 mm, 2 mm", "Packmaßfläche 0,5 m²", "Gewicht 25–58 kg modellabhängig", "M2-feuerhemmende Textilien", "Theke, Regal, Kleiderabteil"],
+      "caveat": "Packmaß wird als Fläche statt L×B×H angegeben; Gewichte hängen vom Modell und Dachmaterial ab."
+    },
+    {
+      "id": "VI-02",
+      "provider": "VITABRI",
+      "url": "https://www.vitabri.de/profi-faltpavillon/",
+      "http_status": 200,
+      "final_url": "https://www.vitabri.de/profi-faltpavillon/",
+      "official": true,
+      "supports": ["mehrere Produktreihen und Größen", "modulare Verkleidungen", "eigene Druck- und Grafikabteilung", "Origine France Garantie mit jährlichem Audit behauptet"],
+      "caveat": "Zertifikatsdokument und Gültigkeits-Scope wurden nicht separat geprüft."
+    },
+    {
+      "id": "VI-03",
+      "provider": "VITABRI",
+      "url": "https://www.vitabri.de/zubehor/",
+      "http_status": 200,
+      "final_url": "https://www.vitabri.de/zubehor/",
+      "official": true,
+      "supports": ["Zubehörübersicht", "Theke", "Transport/Aufbewahrung", "Ballast und Beleuchtung"],
+      "caveat": "Einzelne Zubehördetails stehen auf Unterseiten."
+    },
+    {
+      "id": "VI-04",
+      "provider": "VITABRI",
+      "url": "https://www.vitabri.de/individuelle-gestaltung/druck/",
+      "http_status": 200,
+      "final_url": "https://www.vitabri.de/individuelle-gestaltung/druck/",
+      "official": true,
+      "supports": ["integrierte Großformatdruckerei", "320-cm-Druckbreite", "Imprim’vert-Label", "Druckberatung und Datenanforderungen"],
+      "caveat": "Labelstatus und Scope nicht separat beim Labelgeber geprüft."
+    },
+    {
+      "id": "EZ-01",
+      "provider": "E-Z UP Europe",
+      "url": "https://ezup.eu/canopies/professional.html",
+      "http_status": 200,
+      "final_url": "https://ezup.eu/canopies/professional.html",
+      "official": true,
+      "supports": ["professionelle Größen 1,5×1,5 bis 4×4 m", "mehrere Stahl-/Aluminiummodelle", "Custom Printing", "modellbezogene 7-Jahres-Garantien", "Fire Certifications und Replacement Parts"],
+      "caveat": "Englische EU-Shopseite; Garantietabelle und Produktdetail können voneinander abweichen."
+    },
+    {
+      "id": "EZ-02",
+      "provider": "E-Z UP Europe",
+      "url": "https://ezup.eu/eclipse-canopy.html",
+      "http_status": 200,
+      "final_url": "https://ezup.eu/eclipse-canopy.html",
+      "official": true,
+      "supports": ["Eclipse in vier Größen", "Stahl oder optional Flugzeugaluminium", "3×3-Ausführung 33,1 kg", "B1, CPAI-84, NFPA-701, CAN/ULC-S109 genannt", "7 Jahre Garantie"],
+      "caveat": "Das angezeigte Gewicht ist variantenabhängig; Zertifikatsdateien nicht unabhängig geprüft."
+    },
+    {
+      "id": "EZ-03",
+      "provider": "E-Z UP Europe",
+      "url": "https://ezup.eu/endeavor-canopy.html",
+      "http_status": 200,
+      "final_url": "https://ezup.eu/endeavor-canopy.html",
+      "official": true,
+      "supports": ["achtseitiger Flugzeugaluminiumrahmen", "angezeigtes Gewicht 36,3 kg", "mehrere Brandschutzcodes", "Inhouse-Druck", "ein Jahr kostenlose Ersatzteile", "Seite zeigt Lifetime Limited Warranty"],
+      "caveat": "Widerspruch zur 7-Jahres-Angabe der Übersichtsseite; vor Publikation Garantie je SKU schriftlich bestätigen."
+    },
+    {
+      "id": "EZ-04",
+      "provider": "E-Z UP Europe",
+      "url": "https://ezup.eu/accessories/canopy-sidewalls.html",
+      "http_status": 200,
+      "final_url": "https://ezup.eu/accessories/canopy-sidewalls.html",
+      "official": true,
+      "supports": ["Voll- und Teilseitenwände", "Fenster-/Reißverschlussvarianten", "Custom Printing", "Truss Clips bei Food-Booth-Seitenwand"],
+      "caveat": "Keine allgemeine Seitenwandbefestigung für alle Modelle ableiten."
+    },
+    {
+      "id": "EZ-05",
+      "provider": "E-Z UP Europe",
+      "url": "https://ezup.eu/parts",
+      "http_status": 200,
+      "final_url": "https://ezup.eu/parts",
+      "official": true,
+      "supports": ["Ersatzteilsuche nach Modellname, Größe oder Modellnummer", "Ersatzdächer und -rahmen"],
+      "caveat": "Keine generelle Verfügbarkeitsdauer auf dieser Seite."
+    },
+    {
+      "id": "QU-01",
+      "provider": "QUICKUPTENT",
+      "url": "https://www.quickuptent.de/index/serien-vergleich.html",
+      "http_status": 200,
+      "final_url": "https://www.quickuptent.de/index/serien-vergleich.html",
+      "official": true,
+      "supports": ["ALU-HEXAGON und V2A", "ALU-Hexagon 46×46 mm, 2 mm", "quadratisches Profil 32×32 mm, 0,8 mm in Vergleichsserie", "serienbezogene Gewichte", "Rollentasche"],
+      "caveat": "Tabellenwerte müssen spaltenweise der richtigen Serie/Größe zugeordnet werden."
+    },
+    {
+      "id": "QU-02",
+      "provider": "QUICKUPTENT",
+      "url": "https://www.quickuptent.de/alu-hexagon-serie/groessen-gewichte.html",
+      "http_status": 200,
+      "final_url": "https://www.quickuptent.de/alu-hexagon-serie/groessen-gewichte.html",
+      "official": true,
+      "supports": ["Gewichte für Rahmen, Dach und Seitenwandset", "Gesamtgewichte ca. 47–111 kg mit Seitenwänden", "Höhenangaben im gepackten/aufgebauten Zustand"],
+      "caveat": "Die Seite enthält mehrere Größen; Einzelwerte nicht ohne Tabellenkopf zitieren."
+    },
+    {
+      "id": "QU-03",
+      "provider": "QUICKUPTENT",
+      "url": "https://www.quickuptent.de/alu-hexagon-serie/zubehoer.html",
+      "http_status": 200,
+      "final_url": "https://www.quickuptent.de/alu-hexagon-serie/zubehoer.html",
+      "official": true,
+      "supports": ["Fenster- und Halbseitenwand", "Regenrinne, Verbindungsklemmen, Seitenwandzwischenstück", "Falttheke und Thekentische", "10 Jahre Ersatzteilversorgung"],
+      "caveat": "Keine Innenkabine oder Lamellenwand öffentlich bestätigt; das beweist kein Nichtangebot."
+    },
+    {
+      "id": "QU-04",
+      "provider": "QUICKUPTENT",
+      "url": "https://www.quickuptent.de/bedruckung.html",
+      "http_status": 200,
+      "final_url": "https://www.quickuptent.de/bedruckung.html",
+      "official": true,
+      "supports": ["eigene Layoutabteilung und Druckerei", "Flex-, 4c-Digital- und Siebdruck", "Volant-, Dach- und Seitenwanddruck", "kostenloser Druckdatencheck"],
+      "caveat": "Wirkungs- und Haltbarkeitsformulierungen sind Eigenwerbung."
+    },
+    {
+      "id": "QU-05",
+      "provider": "QUICKUPTENT",
+      "url": "https://www.quickuptent.de/alu-hexagon-serie/f-a-q/f-a-q-leser/ist-ein-faltzelt-der-alu-hexagon-serie-feuerhemmend.html",
+      "http_status": 200,
+      "final_url": "https://www.quickuptent.de/alu-hexagon-serie/f-a-q/f-a-q-leser/ist-ein-faltzelt-der-alu-hexagon-serie-feuerhemmend.html",
+      "official": true,
+      "supports": ["Stoffe als feuerhemmend bezeichnet", "CPAI-84-Spezifikation verlinkt"],
+      "caveat": "CPAI-84 ist nicht automatisch gleich DIN 4102-B1 oder EN 13501-1; keine Gleichsetzung publizieren."
+    },
+    {
+      "id": "QU-06",
+      "provider": "QUICKUPTENT",
+      "url": "https://www.quickuptent.de/alu-hexagon-serie/f-a-q/f-a-q-leser/k%C3%B6nnen-faltzelte-von-quickuptent-repariert-werden-kopie.html",
+      "http_status": 200,
+      "final_url": "https://www.quickuptent.de/alu-hexagon-serie/f-a-q/f-a-q-leser/k%C3%B6nnen-faltzelte-von-quickuptent-repariert-werden-kopie.html",
+      "official": true,
+      "supports": ["Selbstreparatur des Rahmens", "Ersatzteilservice und 10 Jahre Ersatzteilgarantie", "Reparaturservice für Dächer und Seitenwände"],
+      "caveat": "Begriff 'Ersatzteilgarantie' nicht mit Produktgarantie gleichsetzen."
+    },
+    {
+      "id": "SD-01",
+      "provider": "Swiss Display",
+      "url": "https://swissdisplay.de/",
+      "http_status": 200,
+      "final_url": "https://swissdisplay.de/",
+      "official": true,
+      "supports": ["Faltpavillons in 10 Größen von 2×2 bis 6×6 m", "Kuppel- und Air-Dome-Ergänzung", "Beleuchtung, Theken, Messetresen", "Beratung und 3D/AR-Konfiguration", "B1-Angabe"],
+      "caveat": "Anbieter-/Integratorquelle; eigener Gestellherstellerstatus nicht öffentlich bestätigt."
+    },
+    {
+      "id": "SD-02",
+      "provider": "Swiss Display",
+      "url": "https://swissdisplay.de/faltpavillons/",
+      "http_status": 200,
+      "final_url": "https://swissdisplay.de/faltpavillons/",
+      "official": true,
+      "supports": ["zwei Aluminium-Rahmenklassen", "40×40-mm- bzw. 50-mm-Sechseckprofile mit Wandstärken", "2 Jahre Herstellergarantie", "mindestens 10 Jahre Ersatzteilversorgung", "B1 und optionales GS-Label"],
+      "caveat": "Die Seite mischt allgemeine Ratgebertexte und Angebotsangaben. Rechtsaussagen zu B1-Pflichten nicht ungeprüft übernehmen."
+    },
+    {
+      "id": "SD-03",
+      "provider": "Swiss Display",
+      "url": "https://swissdisplay.de/produkt-portfolio/faltpavillon-3x3m-bayerischer-landtag/",
+      "http_status": 200,
+      "final_url": "https://swissdisplay.de/produkt-portfolio/faltpavillon-3x3m-bayerischer-landtag/",
+      "official": true,
+      "supports": ["modular kombinierbare Pavillons", "Zelt- und Seitenwandverbinder", "Fenster-/Türseitenwände", "2 Jahre Garantie", "B1-Angabe", "Siebdruck und Digitaldruck"],
+      "caveat": "Referenz-/Produktseite; Aussagen nicht pauschal auf alle Modelle übertragen."
+    },
+    {
+      "id": "SD-04",
+      "provider": "Swiss Display",
+      "url": "https://swissdisplay.de/faltpavillon-bedrucken-lassen/",
+      "http_status": 200,
+      "final_url": "https://swissdisplay.de/faltpavillon-bedrucken-lassen/",
+      "official": true,
+      "supports": ["Sublimationsdruck, Siebdruck auf Anfrage", "Dach, Volant und Seitenwände bedruckbar", "Seitenwände innen/außen", "Druckvorlagen", "3D-Konfigurator"],
+      "caveat": "UV-/Lebensdauer- und Wirkungsangaben sind Anbieterbehauptungen."
+    }
+  ],
+  "url_verification": {
+    "procedure": "HTTP-Status und finales Redirect-Ziel per curl/requests am 2026-07-11 geprüft; alle oben gelisteten URLs lieferten HTTP 200.",
+    "excluded_or_rejected": [
+      {
+        "candidate": "RUKUevent",
+        "reason": "frühere Domain leitete auf RUKU1952 ohne aktuelles Faltzeltportfolio; nicht als aktueller direkter Anbieter aufgenommen"
+      },
+      {
+        "candidate": "Expotent",
+        "reason": "TLS-Zertifikatskette war in der Rechercheumgebung nicht vertrauenswürdig; URL deshalb nicht belastbar verifiziert"
+      },
+      {
+        "candidate": "faltzelt24.de",
+        "reason": "Domain ist eine Verkaufs-Landingpage, kein aktueller Anbieter"
+      },
+      {
+        "candidate": "Toolport/Profizelt24",
+        "reason": "offizielle Seiten blockierten automatisierte Verifikation mit HTTP 403; für diese belastbare Quellenmatrix nicht verwendet"
+      }
+    ]
+  }
+}

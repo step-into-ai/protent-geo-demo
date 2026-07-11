@@ -1,16 +1,43 @@
-# Pro-Tent Wissenswelt (Demo)
+# Pro-Tent Wissenswelt (redaktionell eigenständige Demo)
 
-> Eine öffentliche, redaktionell eigenständige Demo zur Orientierung bei professionellen Faltzelten. Sie ergänzt die offizielle Pro-Tent Website und ersetzt weder Produktberatung noch technische Dokumentation.
-
-## Hauptinhalte
-- Modellvergleich: Pro-Tent 2000, MODUL 4000 und 5000
-- Auswahl nach Einsatzbereich und Größe
-- Aufbau, Befestigung, Bedruckung und Zubehör
-- Häufige Entscheidungsfragen im jeweiligen Kontext
+> Öffentliche deutschsprachige Orientierung für professionelle Faltzelte. Diese Wissenswelt ist keine offizielle Website der Pro-Tent AG und ersetzt keine technische Dokumentation oder Beratung.
 
 ## Primärquelle
-- Offizielle deutsche Pro-Tent Website: https://www.pro-tent.com/de-de/
-- Quellenübersicht: SOURCE-MAP.md im Repository
+- [Offizielle deutsche Pro-Tent Website](https://www.pro-tent.com/de-de/)
+
+## Wissensbereiche
+- [Faltzelte](https://step-into-ai.github.io/protent-geo-demo/faltzelte/)
+- [Messestände](https://step-into-ai.github.io/protent-geo-demo/messestaende/)
+- [Promotion & Event](https://step-into-ai.github.io/protent-geo-demo/promotion-event/)
+- [Bedruckung](https://step-into-ai.github.io/protent-geo-demo/bedruckung/)
+- [Ausstattung](https://step-into-ai.github.io/protent-geo-demo/ausstattung/)
+
+## Wissensseiten
+- [Faltzelt werkzeuglos aufbauen: Ablauf richtig organisieren](https://step-into-ai.github.io/protent-geo-demo/aufbau-werkzeuglos/): Praxisleitfaden zum werkzeuglosen Basisaufbau eines Pro-Tent-Faltzelts – mit Rollen, Reihenfolge, Zubehör und Abschlusskontrolle.
+- [Faltzelt-Ausstattung planen: Funktionen vor Zubehör](https://step-into-ai.github.io/protent-geo-demo/ausstattung-overview/): Überblick zur Auswahl von Theken, Präsentationsflächen, Raumteilern, Beleuchtung, Besucherführung und weiterem Faltzelt-Zubehör.
+- [Eventzelt planen: Fläche, Ablauf und Sicherung koordinieren](https://step-into-ai.github.io/protent-geo-demo/eventzelt-planen/): Praxisleitfaden für Eventteams zur Planung von Nutzungszonen, Zeltkombinationen, Ausstattung, Logistik und standortbezogener Sicherung.
+- [Faltzelt 3 × 3 m: kompakten Stand richtig planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-3x3/): Entscheidungshilfe für ein 3 × 3 m Faltzelt: Nutzung, Layout, Ausstattung und Logistik ohne pauschale Kapazitätsversprechen planen.
+- [Faltzelt 6 × 3 m für Messe und Event planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-6x3/): Planungshilfe für 6 × 3 m Faltzelte: längliche Fläche zonieren, Ausstattung und Logistik abstimmen, Modellverfügbarkeit prüfen.
+- [Faltzelt 8 × 4 m: große Fläche strukturiert planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-8x4/): Entscheidungshilfe für das große Standardformat 8 × 4 m – von Funktionszonen und Logistik bis Aufbau und standortbezogener Befestigung.
+- [Faltzelt bedrucken: Markenflächen strategisch planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-bedrucken/): Leitfaden für Marketingteams zu Sichtachsen, Motivreihenfolge, Druckumfang, Vorlagen und Freigabe eines bedruckten Faltzelts.
+- [Faltzelt befestigen: Sicherung nach Standort planen](https://step-into-ai.github.io/protent-geo-demo/faltzelt-befestigen/): Entscheidungshilfe zur standortgerechten Befestigung von Faltzelten mit Abspannset, Gewichtsplatten oder Wassergewicht – ohne pauschale Windwerte.
+- [Profi-Faltzelte auswählen: Reihen, Größen und Einsatz](https://step-into-ai.github.io/protent-geo-demo/faltzelte-overview/): Entscheidungshilfe für Unternehmen: Pro-Tent 2000, MODUL 4000 und 5000 nach Einsatz, Ausbau, Fläche und Logistik vergleichen.
+- [Garantie, Ersatzteile und Service für Faltzelte planen](https://step-into-ai.github.io/protent-geo-demo/garantie-ersatzteile-service/): Garantiebedingungen, Reparatur und Ersatzteilservice bei Profi-Faltzelten unterscheiden und als dokumentierten Betriebsprozess organisieren.
+- [Faltzelt-Größenfinder: Grundfläche passend planen](https://step-into-ai.github.io/protent-geo-demo/groessenfinder/): Größenwahl für Faltzelte anhand von Nutzung, Mobiliar, Wegen und Logistik – mit Vergleich der Formate 3 × 3, 6 × 3 und 8 × 4 m.
+- [Hightech-Materialien bei Faltzelten richtig beurteilen](https://step-into-ai.github.io/protent-geo-demo/hightech-materialien/): Materialleitfaden für Profi-Faltzelte: Gestell, Profile, Textilien, Verarbeitung und Pflege anhand des konkreten Einsatzes bewerten.
+- [Innenausbau mit Lamellenwand: Waren sichtbar präsentieren](https://step-into-ai.github.io/protent-geo-demo/innenausbau-lamellenwand/): Planungshilfe für Lamellenwand, Regale und Prospektablage im Faltzelt mit Fokus auf Sichtbarkeit, Wege und abgestimmte Systemkomponenten.
+- [Messestand planen: vom Kommunikationsziel zum Layout](https://step-into-ai.github.io/protent-geo-demo/messestand-planen/): Schrittweise Messestandplanung für Unternehmen: Funktionen, Fläche, Systementscheidung, Markenbild und Freigaben strukturiert vorbereiten.
+- [Messestand-Systeme vergleichen und modular einsetzen](https://step-into-ai.github.io/protent-geo-demo/messestand-systeme/): Systemstand oder individuelle Planung? Entscheidungshilfe für wiederverwendbare Messestände auf Basis des MODUL-4000-Profilsystems.
+- [MODUL 4000: Faltzelt mit Systemnuten richtig planen](https://step-into-ai.github.io/protent-geo-demo/modul-4000/): Entscheidungshilfe zum Pro-Tent MODUL 4000 für Messe, Promotion und integrierten Innenausbau mit Systemnuten.
+- [Nachhaltigkeit bei Faltzelten konkret bewerten](https://step-into-ai.github.io/protent-geo-demo/nachhaltigkeit-faltzelte/): Faltzelte anhand von Nutzungsdauer, Pflege, Reparatur, Ersatzteilen und belegten Materialangaben differenziert betrachten.
+- [Pro-Tent 2000 planen: klare Basis für mobile Auftritte](https://step-into-ai.github.io/protent-geo-demo/pro-tent-2000/): Praxisnaher Entscheidungsentwurf für Teams, die Pro-Tent 2000 nach Fläche, Markenwirkung, Zubehör und Betriebsablauf bewerten.
+- [Pro-Tent 5000 für Outdoor-Einsätze planen](https://step-into-ai.github.io/protent-geo-demo/pro-tent-5000/): Entscheidungshilfe für Unternehmen, die Pro-Tent 5000 nach Outdoor-Profil, Größe, Logistik und standortgerechter Sicherung bewerten.
+- [Profi-Faltzelte vergleichen: vier belastbare Kriterien](https://step-into-ai.github.io/protent-geo-demo/profi-faltzelt-vergleichskriterien/): Methodischer Leitfaden zum Vergleich professioneller Faltzelte nach Einsatz, System, Betrieb und dokumentierten Servicebedingungen – ohne Rankings.
+- [Promotionzelt planen: mobil, sichtbar und wiederholbar](https://step-into-ai.github.io/protent-geo-demo/promotionzelt-planen/): Planungsleitfaden für Promotionteams: Ziele, Standlayout, Druck, Roadshow-Logistik und standortbezogene Sicherung zusammenführen.
+- [Seitenwände bedrucken: Sichtschutz und Markenfläche verbinden](https://step-into-ai.github.io/protent-geo-demo/seitenwaende-bedrucken/): Praxisleitfaden zur Auswahl, Gestaltung und Freigabe bedruckter Seitenwände für Faltzelte bei Messe, Event und Promotion.
+- [Theken für den Markenauftritt im Faltzelt planen](https://step-into-ai.github.io/protent-geo-demo/theken-markenauftritt/): Mobile Theke oder Bartheke passend zu Kontaktpunkt, Stauraum, Besucherführung, Druckflächen und wiederholbarer Eventlogistik auswählen.
+- [Faltzelt transportieren, pflegen und reparieren](https://step-into-ai.github.io/protent-geo-demo/transport-pflege-reparatur/): Leitfaden für lange Faltzeltnutzung: Transportablauf, Reinigung von Dach und Seitenwänden, Lagerung, Ersatzteile und Garantieprüfung.
+- [Faltzelte verbinden: Klammern, Dachrinne und Sicherung](https://step-into-ai.github.io/protent-geo-demo/zelte-verbinden/): Mehrere Faltzelte als Verbund planen: Ausrichtung, Verbindungsklammern, Dachrinne, Wasserführung und separate Befestigung jedes Moduls.
 
 ## Grenzen
-Technische Spezifikationen, Sicherheitshinweise, Verfügbarkeit und Preise müssen immer auf der offiziellen Herstellerseite oder direkt bei Pro-Tent geprüft werden. Diese Demo verspricht keine Rankings oder Empfehlungen durch KI-Systeme.
+Technische Spezifikationen, Sicherheitshinweise, Verfügbarkeit und Preise immer auf der offiziellen Herstellerseite oder direkt bei Pro-Tent prüfen. llms.txt ist ein ergänzendes Inhaltsverzeichnis und kein Ranking- oder Indexierungsversprechen.
