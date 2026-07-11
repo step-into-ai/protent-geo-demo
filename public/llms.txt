@@ -1,0 +1,16 @@
+# Pro-Tent Wissenswelt (Demo)
+
+> Eine öffentliche, redaktionell eigenständige Demo zur Orientierung bei professionellen Faltzelten. Sie ergänzt die offizielle Pro-Tent Website und ersetzt weder Produktberatung noch technische Dokumentation.
+
+## Hauptinhalte
+- Modellvergleich: Pro-Tent 2000, MODUL 4000 und 5000
+- Auswahl nach Einsatzbereich und Größe
+- Aufbau, Befestigung, Bedruckung und Zubehör
+- Häufige Entscheidungsfragen im jeweiligen Kontext
+
+## Primärquelle
+- Offizielle deutsche Pro-Tent Website: https://www.pro-tent.com/de-de/
+- Quellenübersicht: SOURCE-MAP.md im Repository
+
+## Grenzen
+Technische Spezifikationen, Sicherheitshinweise, Verfügbarkeit und Preise müssen immer auf der offiziellen Herstellerseite oder direkt bei Pro-Tent geprüft werden. Diese Demo verspricht keine Rankings oder Empfehlungen durch KI-Systeme.
