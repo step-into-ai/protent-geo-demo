@@ -52,6 +52,7 @@ Die Bilder sind für die Kundendemo lokal gespeichert. Vor einer öffentlichen P
 
 | Lokale Datei | Offizielle Bild-URL |
 |---|---|
+| `public/images/logo-protent.svg` | https://www.pro-tent.com/_assets/ae82a7eafe22d45baa0743f286709678/Images/logo_protent.svg |
 | `public/images/hero.jpg` | https://www.pro-tent.com/fileadmin/_processed_/7/4/csm_detail_title_5000_eddf5816bc.jpg |
 | `public/images/model-2000.png` | https://www.pro-tent.com/fileadmin/Global/Bilder/Faltzelte/2000/overview-faltzelt-2000.png |
 | `public/images/model-4000.png` | https://www.pro-tent.com/fileadmin/Global/Bilder/Faltzelte/modul4000/overview-faltzelt-modul-4000.png |

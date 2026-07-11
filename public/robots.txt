@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://protent-geo-demo.example/sitemap.xml
+Sitemap: https://step-into-ai.github.io/protent-geo-demo/sitemap.xml

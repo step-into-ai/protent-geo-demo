@@ -2,22 +2,23 @@ import { useEffect, useState } from 'react'
 import './App.css'
 
 const official = 'https://www.pro-tent.com/de-de'
+const assets = `${import.meta.env.BASE_URL}images/`
 
 const models = [
   {
-    name: 'Pro-Tent 2000', label: 'Der bewährte Klassiker', image: '/images/model-2000.png',
+    name: 'Pro-Tent 2000', label: 'Der bewährte Klassiker', image: `${assets}model-2000.png`,
     text: 'Kompaktes Profi-Faltzelt für kleinere Budgets – mit Aluminiumgestell, werkzeuglosem Aufbau und Größen von 2 × 2 m bis 6 × 3 m.',
     sizes: ['2 × 2 m', '2,4 × 2,4 m', '3 × 2 m', '3 × 3 m', '4 × 2 m', '4,5 × 3 m', '6 × 3 m'],
     href: `${official}/faltzelte/pro-tent-2000/`
   },
   {
-    name: 'Pro-Tent MODUL 4000', label: 'Das modulare Raumwunder', image: '/images/model-4000.png',
+    name: 'Pro-Tent MODUL 4000', label: 'Das modulare Raumwunder', image: `${assets}model-4000.png`,
     text: 'Für variable Raumkonzepte, Innenkabinen und systematische Erweiterungen. Das Omegaprofil nimmt Zubehör direkt auf.',
     sizes: ['1,5 × 1,5 m', '2 × 2 m', '3 × 1,5 m', '3 × 2 m', '3 × 3 m', '4 × 2 m', '4,5 × 3 m', '6 × 3 m'],
     href: `${official}/faltzelte/pro-tent-modul-4000/`
   },
   {
-    name: 'Pro-Tent 5000', label: 'Für maximale Stabilität', image: '/images/model-5000.png',
+    name: 'Pro-Tent 5000', label: 'Für maximale Stabilität', image: `${assets}model-5000.png`,
     text: 'Das Profi-System für intensive Outdoor-Einsätze und große Formate – vom 3 × 3 m Faltzelt bis zum 8 × 4 m System.',
     sizes: ['3 × 3 m', '4,5 × 3 m', '6 × 3 m', '4 × 4 m', '6 × 4 m', '8 × 4 m'],
     href: `${official}/faltzelte/pro-tent-5000/`
@@ -56,7 +57,7 @@ export default function App() {
 
   return <>
     <header className="site-header">
-      <a className="brand" href="#top" aria-label="Pro-Tent Wissenswelt Startseite"><span className="brand-mark">P</span><span>PRO-TENT<small>WISSENSWELT</small></span></a>
+      <a className="brand official-brand" href="#top" aria-label="Pro-Tent Wissenswelt Startseite"><img src={`${assets}logo-protent.svg`} alt="Pro-Tent"/><span className="knowledge-label">Wissenswelt</span></a>
       <button className="menu-btn" aria-expanded={menu} aria-controls="main-nav" onClick={()=>setMenu(!menu)}>Menü <span aria-hidden="true">☰</span></button>
       <nav id="main-nav" className={menu?'open':''} aria-label="Hauptnavigation">
         <a href="#finder" onClick={()=>setMenu(false)}>Zelt finden</a><a href="#modelle" onClick={()=>setMenu(false)}>Modelle</a><a href="#wissen" onClick={()=>setMenu(false)}>Ratgeber</a><a href="#faq" onClick={()=>setMenu(false)}>Fragen</a>
@@ -111,8 +112,8 @@ export default function App() {
       <section id="wissen" className="section knowledge"><div className="wrap">
         <div className="section-head"><p className="eyebrow">Praxiswissen</p><h2>Von der Idee zum sicheren Einsatz</h2></div>
         <div className="knowledge-grid">
-          <article className="feature-card print"><img src="/images/printing.jpg" alt="Individuell bedrucktes Pro-Tent im Veranstaltungseinsatz"/><div><span>Markenauftritt</span><h3>Bedruckung, die zum Einsatz passt</h3><p>Logo, Teilfläche oder Vollbedruckung: Motiv, Sichtachsen und Zubehör sollten als Gesamtsystem geplant werden.</p><Out href={`${official}/druckservice/`}>Druckservice verstehen</Out></div></article>
-          <article className="mini-card"><img src="/images/accessories.jpg" alt="Faltzelt-Zubehör von Pro-Tent"/><div><span>Ausstattung</span><h3>Zubehör mit Funktion</h3><p>Seitenwände, Gewichte, Theken, Licht und Transportsysteme nach Aufgabe auswählen.</p><Out href={`${official}/zubehoer/`}>Zubehör entdecken</Out></div></article>
+          <article className="feature-card print"><img src={`${assets}printing.jpg`} alt="Individuell bedrucktes Pro-Tent im Veranstaltungseinsatz"/><div><span>Markenauftritt</span><h3>Bedruckung, die zum Einsatz passt</h3><p>Logo, Teilfläche oder Vollbedruckung: Motiv, Sichtachsen und Zubehör sollten als Gesamtsystem geplant werden.</p><Out href={`${official}/druckservice/`}>Druckservice verstehen</Out></div></article>
+          <article className="mini-card"><img src={`${assets}accessories.jpg`} alt="Faltzelt-Zubehör von Pro-Tent"/><div><span>Ausstattung</span><h3>Zubehör mit Funktion</h3><p>Seitenwände, Gewichte, Theken, Licht und Transportsysteme nach Aufgabe auswählen.</p><Out href={`${official}/zubehoer/`}>Zubehör entdecken</Out></div></article>
           <article className="mini-card text-card"><div><span>Aufbau</span><h3>Werkzeuglos – aber nicht planlos</h3><p>Aufstellen, Höhe justieren, korrekt befestigen und erst dann Zubehör montieren.</p><Out href={`${official}/faltzelte/aufbau/`}>Aufbau ansehen</Out></div></article>
         </div>
         <aside className="safety"><b>Sicherheit vor Schnelligkeit.</b><p>Wind, Untergrund und lokale Vorgaben können die Nutzung verändern. Herstellerhinweise, geeignete Verankerung und die Situation vor Ort sind entscheidend.</p><Out href={`${official}/faltpavillons-befestigen/`}>Befestigung richtig planen</Out></aside>
@@ -126,6 +127,6 @@ export default function App() {
       <section className="cta"><div className="wrap"><div><p className="eyebrow">Nächster Schritt</p><h2>Aus Wissen wird eine passende Konfiguration.</h2><p>Nutze die Wissenswelt zur Orientierung – und kläre Modell, Größe, Druck und Zubehör anschließend direkt mit Pro-Tent.</p></div><div className="cta-actions"><Out href={`${official}/konfigurator/zelt-konfigurator/`}>Zelt konfigurieren</Out><Out href={`${official}/kontakt/`}>Kontakt aufnehmen</Out></div></div></section>
     </main>
 
-    <footer><div className="wrap footer-grid"><div className="brand footer-brand"><span className="brand-mark">P</span><span>PRO-TENT<small>WISSENSWELT</small></span></div><div><b>Orientierung</b><a href="#modelle">Modelle</a><a href="#groessen">Größen</a><a href="#wissen">Praxiswissen</a></div><div><b>Offizielle Seiten</b><a href={`${official}/faltzelte/`} target="_blank">Faltzelte ↗</a><a href={`${official}/zubehoer/`} target="_blank">Zubehör ↗</a><a href={`${official}/beratung/`} target="_blank">Beratung ↗</a></div><div><b>Über diese Demo</b><p>Öffentliche, redaktionell eigenständige Wissensdemo. Keine offizielle Website der Pro-Tent AG.</p></div></div><div className="wrap legal"><span>Demo · Stand 11. Juli 2026</span><a href="/quellen">Quellen im Repository</a></div></footer>
+    <footer><div className="wrap footer-grid"><div className="brand official-brand footer-brand"><span className="footer-logo"><img src={`${assets}logo-protent.svg`} alt="Pro-Tent"/></span><span className="knowledge-label">Wissenswelt</span></div><div><b>Orientierung</b><a href="#modelle">Modelle</a><a href="#groessen">Größen</a><a href="#wissen">Praxiswissen</a></div><div><b>Offizielle Seiten</b><a href={`${official}/faltzelte/`} target="_blank">Faltzelte ↗</a><a href={`${official}/zubehoer/`} target="_blank">Zubehör ↗</a><a href={`${official}/beratung/`} target="_blank">Beratung ↗</a></div><div><b>Über diese Demo</b><p>Öffentliche, redaktionell eigenständige Wissensdemo. Keine offizielle Website der Pro-Tent AG.</p></div></div><div className="wrap legal"><span>Demo · Stand 11. Juli 2026</span><a href="/quellen">Quellen im Repository</a></div></footer>
   </>
 }
