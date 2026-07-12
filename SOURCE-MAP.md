@@ -61,6 +61,17 @@ Die Bilder sind für die Kundendemo lokal gespeichert. Vor einer öffentlichen P
 | `public/images/accessories.jpg` | https://www.pro-tent.com/fileadmin/_processed_/c/3/csm_title-zubehoer_68f6a2015c.jpg |
 | `public/images/usecase.jpg` | https://www.pro-tent.com/fileadmin/_processed_/1/9/csm_einsatzbereiche-events-promotion-messe_a3db551d87.jpg |
 
+### Referenzen der KI-Konzeptvisuals
+
+Die vier Galerievisuals sind eigenständige KI-Konzeptdarstellungen und keine offiziellen Pro-Tent Kampagnenmotive. Als visuelle Referenzen dienten ausschließlich offizielle Pro-Tent Produkt- und Anwendungsbilder, damit Dachform, Volant, Scherenrahmen, Aluminiumprofile, Seitenwände und modulare Proportionen deutlich näher am realen Portfolio liegen.
+
+| Konzeptvisual | Offizielle Form-/Anwendungsreferenzen |
+|---|---|
+| `public/images/de-messe-konzept.webp` | [MODUL 4000 Produktansicht](https://www.pro-tent.com/fileadmin/Global/Bilder/Faltzelte/modul4000/overview-faltzelt-modul-4000.png), [Messestand-System](https://www.pro-tent.com/fileadmin/_processed_/7/f/csm_messestaende_system_title_9b079cb5f0.webp) |
+| `public/images/de-promotion-konzept.webp` | [MODUL 4000 Produktansicht](https://www.pro-tent.com/fileadmin/Global/Bilder/Faltzelte/modul4000/overview-faltzelt-modul-4000.png), [Eventzelt im Einsatz](https://www.pro-tent.com/fileadmin/_processed_/1/f/csm_events-promotion-messen-square-eventzelt_299ebf0215.webp) |
+| `public/images/de-gastro-konzept.webp` | [Pro-Tent 5000 Produktansicht](https://www.pro-tent.com/fileadmin/Global/Bilder/Faltzelte/5000/overview-faltzelt-5000.png), [Gastronomiezelt](https://www.pro-tent.com/fileadmin/_processed_/4/f/csm_gastronomie-gastgewerbe-gastronomiezelt_4828ff7357.webp) |
+| `public/images/de-material-konzept.webp` | [Pro-Tent 5000 Produktansicht](https://www.pro-tent.com/fileadmin/Global/Bilder/Faltzelte/5000/overview-faltzelt-5000.png), [Aluminiumprofil](https://www.pro-tent.com/fileadmin/_processed_/2/1/csm_slider-profile-PT5000_8984b5e6bb.webp) |
+
 ## Vollständige Linkliste der Demo
 
 Die React-Komponente verlinkt auf:

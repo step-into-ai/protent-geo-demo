@@ -61,10 +61,10 @@ const articleHighlights = ['faltzelte-overview', 'groessenfinder', 'messestand-p
 })
 
 const conceptVisuals = [
-  { image: 'de-messe-konzept.webp', eyebrow: 'Messe & Unternehmen', title: 'Markenräume für persönliche Begegnungen', alt: 'Konzeptvisual eines modularen Messestands in einer modernen Messehalle' },
-  { image: 'de-promotion-konzept.webp', eyebrow: 'Promotion & Roadshow', title: 'Präsenz, die mit der Kampagne reist', alt: 'Konzeptvisual eines mobilen Promotion-Setups auf einem urbanen Platz' },
-  { image: 'de-gastro-konzept.webp', eyebrow: 'Hospitality & Event', title: 'Serviceflächen mit professionellem Auftritt', alt: 'Konzeptvisual eines mobilen Hospitality-Setups bei einer Unternehmensveranstaltung' },
-  { image: 'de-material-konzept.webp', eyebrow: 'Material & Gestaltung', title: 'Präzision wird sichtbar', alt: 'Abstraktes Konzeptvisual aus hellem Textil, dunklen Flächen und rotem Akzent' },
+  { image: 'de-messe-konzept.webp', eyebrow: 'Messe & Unternehmen', title: 'Markenräume für persönliche Begegnungen', alt: 'Konzeptvisual aus zwei verbundenen Pro-Tent-typischen Faltzeltmodulen als modularer Messestand' },
+  { image: 'de-promotion-konzept.webp', eyebrow: 'Promotion & Roadshow', title: 'Präsenz, die mit der Kampagne reist', alt: 'Konzeptvisual eines Pro-Tent-typischen Promotionzelts mit Scherenrahmen auf einem urbanen Platz' },
+  { image: 'de-gastro-konzept.webp', eyebrow: 'Hospitality & Event', title: 'Serviceflächen mit professionellem Auftritt', alt: 'Konzeptvisual aus zwei verbundenen Pro-Tent-typischen Faltzelten mit Bar und transparenten Seitenwänden' },
+  { image: 'de-material-konzept.webp', eyebrow: 'Material & Gestaltung', title: 'Präzision wird sichtbar', alt: 'Konzeptvisual eines Pro-Tent-typischen Faltzelt-Rahmens mit Aluminiumprofil und wasserabweisendem Zeltdach' },
 ]
 
 export default function HomePage() {
@@ -103,7 +103,7 @@ export default function HomePage() {
       <section className="section concept-gallery" aria-labelledby="concept-gallery-title" aria-label="Einsatzwelten für Deutschland"><div className="wrap">
         <div className="section-head split"><div><p className="eyebrow dark">Pro-Tent in Anwendung</p><h2 id="concept-gallery-title">Vom Faltzelt zum mobilen Markenraum.</h2></div><p>Vier visuelle Richtungen zeigen, wie Pro-Tent Unternehmen in Deutschland bei Messe, Promotion und Hospitality begleiten kann.</p></div>
         <div className="concept-gallery-grid">{conceptVisuals.map((visual, index) => <figure key={visual.image} className={`concept-visual concept-visual-${index + 1}`}><img src={`${assets}${visual.image}`} alt={visual.alt}/><figcaption><span>Konzeptvisual · {visual.eyebrow}</span><b>{visual.title}</b></figcaption></figure>)}</div>
-        <p className="concept-disclosure">Die Visuals dienen der gestalterischen Vision. Konkrete Produktdetails und Ausführungen richten sich nach dem aktuellen Pro-Tent Portfolio.</p>
+        <p className="concept-disclosure">Darstellungen auf Basis charakteristischer Pro-Tent Produktformen. Konkrete Ausführung und Ausstattung werden im Projekt gemeinsam festgelegt.</p>
       </div></section>
 
       <section id="finder" className="section finder-stage">
