@@ -1,7 +1,7 @@
-import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Meta } from './components/Meta'
 import { Out } from './components/Out'
+import { SiteHeader } from './components/SiteHeader'
 import { TentFinder } from './components/TentFinder'
 import { publicClaim, type ClaimId } from './content/claims'
 import type { PageMeta } from './content/schema'
@@ -68,18 +68,9 @@ const conceptVisuals = [
 ]
 
 export default function HomePage() {
-  const [menu, setMenu] = useState(false)
   return <>
     <Meta meta={homeMeta} faqs={homeFaqItems} title="Pro-Tent Deutschland"/>
-    <a className="skip-link" href="#main-content">Zum Inhalt springen</a>
-    <header className="site-header" onKeyDown={event => { if (event.key === 'Escape') setMenu(false) }}>
-      <Link className="brand official-brand germany-brand" to="/"><img src={`${assets}logo-protent.svg`} alt="Pro-Tent"/><span className="knowledge-label"><b>Deutschland</b><small>Wissensplattform</small></span></Link>
-      <button className="menu-btn" aria-label={menu ? 'Menü schließen' : 'Menü öffnen'} aria-expanded={menu} aria-controls="main-nav" onClick={()=>setMenu(!menu)}>Menü <span aria-hidden="true">{menu ? '×' : '☰'}</span></button>
-      <nav id="main-nav" className={menu?'open':''} aria-label="Hauptnavigation">
-        <Link to="/wissen" onClick={()=>setMenu(false)}>Wissen</Link><Link to="/faltzelte" onClick={()=>setMenu(false)}>Faltzelte</Link><Link to="/messestaende" onClick={()=>setMenu(false)}>Messe</Link><Link to="/promotion-event" onClick={()=>setMenu(false)}>Promotion</Link><Link to="/bedruckung" onClick={()=>setMenu(false)}>Bedruckung</Link><Link to="/ausstattung" onClick={()=>setMenu(false)}>Ausstattung</Link>
-        <Out href={`${official}/konfigurator/`}>Konfigurator</Out>
-      </nav>
-    </header>
+    <SiteHeader/>
 
     <main id="main-content">
       <section className="hero" aria-labelledby="hero-title">

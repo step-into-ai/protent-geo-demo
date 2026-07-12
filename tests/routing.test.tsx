@@ -1,3 +1,4 @@
+import { readFileSync } from 'node:fs'
 import { cleanup, fireEvent, render, screen, waitFor, within } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { afterEach, describe, expect, it, vi } from 'vitest'
@@ -75,6 +76,44 @@ describe('routing', () => {
     expect(() => render(<MemoryRouter initialEntries={['/faltzelte#%E0%A4%A']}><AppRoutes /></MemoryRouter>)).not.toThrow()
     await waitFor(() => expect(scrollTo).toHaveBeenCalledWith(0, 0))
     expect(screen.getByRole('heading', { level: 1, name: /Faltzelte verstehen/i })).toBeInTheDocument()
+  })
+
+  it('fixiert den gemeinsamen Header auch auf mobilen Viewports außerhalb des Body-Scrollcontainers', () => {
+    const css = readFileSync('src/components/Layout.css', 'utf8')
+    expect(css).toMatch(/\.site-header\.site-header\{[^}]*position:fixed/)
+    expect(css).toMatch(/body\{[^}]*padding-top:78px/)
+    expect(css).toMatch(/\[id\]\{[^}]*scroll-margin-top:78px/)
+    expect(css).toMatch(/@media\(max-width:850px\)[\s\S]*body\{[^}]*padding-top:68px/)
+    expect(css).toMatch(/@media\(max-width:850px\)[\s\S]*\[id\]\{[^}]*scroll-margin-top:68px/)
+  })
+
+  it('behält die vollständige Hauptnavigation auf allen Wissensrouten sichtbar', () => {
+    render(<MemoryRouter initialEntries={['/wissen']}><AppRoutes /></MemoryRouter>)
+    const navigation = screen.getByRole('navigation', { name: 'Hauptnavigation' })
+
+    expect(within(navigation).getByRole('button', { name: 'Wissen' })).toBeVisible()
+    for (const label of ['Faltzelte', 'Messe', 'Promotion', 'Bedruckung', 'Ausstattung', 'Konfigurator']) {
+      expect(within(navigation).getByRole('link', { name: label })).toBeVisible()
+    }
+  })
+
+  it('öffnet unter Wissen erst Themenbereiche und danach deren einzelne Wissensseiten', async () => {
+    render(<MemoryRouter initialEntries={['/messestaende']}><AppRoutes /></MemoryRouter>)
+
+    fireEvent.click(screen.getByRole('button', { name: 'Wissen' }))
+    const knowledgeGroups = screen.getByRole('group', { name: 'Wissensbereiche' })
+    fireEvent.click(within(knowledgeGroups).getByRole('button', { name: 'Faltzelte' }))
+
+    const articleRegion = screen.getByRole('region', { name: 'Faltzelte Wissensseiten' })
+    const article = articles.find(item => item.hubPath === '/faltzelte')
+    if (!article) throw new Error('Testartikel für Faltzelte fehlt')
+    fireEvent.click(within(articleRegion).getByRole('link', { name: article.title }))
+
+    await waitFor(() => expect(screen.getByRole('heading', { level: 1, name: article.title })).toBeInTheDocument())
+    const navigation = screen.getByRole('navigation', { name: 'Hauptnavigation' })
+    for (const label of ['Faltzelte', 'Messe', 'Promotion', 'Bedruckung', 'Ausstattung', 'Konfigurator']) {
+      expect(within(navigation).getByRole('link', { name: label })).toBeVisible()
+    }
   })
 
   it('bietet Wissen gut sichtbar mit allen Hubs und einer Gesamtübersicht an', () => {
