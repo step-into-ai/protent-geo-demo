@@ -6,9 +6,14 @@ export function ScrollOnNavigation() {
 
   useEffect(() => {
     if (hash) {
-      const target = document.getElementById(decodeURIComponent(hash.slice(1)))
-      if (target) {
-        target.scrollIntoView()
+      try {
+        const target = document.getElementById(decodeURIComponent(hash.slice(1)))
+        if (target) {
+          target.scrollIntoView()
+          return
+        }
+      } catch {
+        window.scrollTo(0, 0)
         return
       }
     }

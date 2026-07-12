@@ -68,6 +68,15 @@ describe('routing', () => {
     expect(scrollTo).not.toHaveBeenCalled()
   })
 
+  it('ignoriert fehlerhaft codierte Hash-Fragmente und scrollt sicher nach oben', async () => {
+    const scrollTo = vi.fn()
+    vi.stubGlobal('scrollTo', scrollTo)
+
+    expect(() => render(<MemoryRouter initialEntries={['/faltzelte#%E0%A4%A']}><AppRoutes /></MemoryRouter>)).not.toThrow()
+    await waitFor(() => expect(scrollTo).toHaveBeenCalledWith(0, 0))
+    expect(screen.getByRole('heading', { level: 1, name: /Faltzelte verstehen/i })).toBeInTheDocument()
+  })
+
   it('bietet Wissen gut sichtbar mit allen Hubs und einer Gesamtübersicht an', () => {
     render(<MemoryRouter initialEntries={['/faltzelte']}><AppRoutes /></MemoryRouter>)
 

@@ -17,6 +17,15 @@ describe('Kai presentation readiness', () => {
     expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent(/mobile Markenräume/i)
   })
 
+  it('kennzeichnet den öffentlichen Auftritt eindeutig als unveröffentlichten Konzeptvorschlag', () => {
+    renderHome()
+    expect(screen.getByText(/Unverbindlicher Konzeptvorschlag für Pro-Tent Deutschland · Nicht von Pro-Tent veröffentlicht/i)).toBeInTheDocument()
+    cleanup()
+
+    render(<MemoryRouter initialEntries={['/messestand-planen']}><AppRoutes /></MemoryRouter>)
+    expect(screen.getByText(/Unverbindlicher Konzeptvorschlag für Pro-Tent Deutschland · Nicht von Pro-Tent veröffentlicht/i)).toBeInTheDocument()
+  })
+
   it('does not expose internal demo or editorial workflow language', () => {
     renderHome()
     const visible = document.body.textContent ?? ''
@@ -36,11 +45,13 @@ describe('Kai presentation readiness', () => {
     expect(screen.getByRole('link', { name: /Pro-Tent.*Deutschland.*Wissensplattform/i })).toBeInTheDocument()
   })
 
-  it('shows hub evidence as useful proof instead of internal workflow labels', () => {
+  it('unterscheidet offizielle Produktangaben klar von Planungshinweisen', () => {
     render(<MemoryRouter initialEntries={['/faltzelte']}><AppRoutes /></MemoryRouter>)
     const visible = document.body.textContent ?? ''
-    expect(visible).toMatch(/Offizielle Produktquellen/i)
-    expect(visible).not.toMatch(/redaktionelle Einordnung|Herstellerangabe|Freigabe ausstehend/i)
+    expect(visible).toMatch(/Quellen und Planungshinweise/i)
+    expect(screen.getAllByText('Offizielle Produktangabe').length).toBeGreaterThan(0)
+    expect(screen.getAllByText('Planungshinweis').length).toBeGreaterThan(0)
+    expect(visible).not.toMatch(/redaktionelle Einordnung|Freigabe ausstehend/i)
   })
 
   it('shows a curated set of concept visuals with transparent labels', () => {

@@ -6,6 +6,7 @@ export function SourceList({ claimIds }: { claimIds: ClaimId[] }) {
     const id = claim.id
     const source = sources[claim.sourceId]
     return <article key={id} className="source-item">
+      <span className={`status status-${claim.status}`}>{claim.status === 'official' ? 'Offizielle Produktangabe' : 'Planungshinweis'}</span>
       <p>{claim.text}</p>
       <a href={source.url} target="_blank" rel="noopener noreferrer">{source.title} · abgerufen am {source.retrievedAt.split('-').reverse().join('.')} ↗</a>
     </article>

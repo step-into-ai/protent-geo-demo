@@ -41,6 +41,6 @@ export function Layout({ children }: { children: ReactNode }) {
       <div><b>Wissensbereiche</b>{navigation.slice(0, 3).map(([path, label]) => <Link key={path} to={path}>{label}</Link>)}</div>
       <div><b>Planung</b>{navigation.slice(3).map(([path, label]) => <Link key={path} to={path}>{label}</Link>)}</div>
       <div><b>Für Unternehmen in Deutschland</b><p>Fundiertes Produktwissen für mobile Markenräume und eine zielgerichtete Projektvorbereitung.</p></div>
-    </div><div className="wrap legal"><span>Konzeptstand · 11. Juli 2026</span><Out href="https://www.pro-tent.com/de-de/">Offizielle Pro-Tent Website</Out></div></footer>
+    </div><div className="wrap legal"><span>Unverbindlicher Konzeptvorschlag für Pro-Tent Deutschland · Nicht von Pro-Tent veröffentlicht</span><Out href="https://www.pro-tent.com/de-de/">Offizielle Pro-Tent Website</Out></div></footer>
   </>
 }

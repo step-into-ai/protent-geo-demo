@@ -92,6 +92,21 @@ describe('GitHub-Pages-Ausgabe', () => {
     }
   })
 
+  it('kennzeichnet jede statische und KI-lesbare Ausgabe eindeutig als nicht von Pro-Tent veröffentlicht', () => {
+    const staticFiles = [
+      'dist/index.html',
+      'dist/wissen/index.html',
+      'dist/404.html',
+      ...routes.map(route => `dist/${route}/index.html`),
+      ...articles.map(article => `dist/${article.slug}/index.html`),
+      'dist/llms.txt',
+      'dist/llms-full.txt',
+    ]
+    for (const file of staticFiles) {
+      expect(readFileSync(file, 'utf8'), file).toContain('Nicht von Pro-Tent veröffentlicht')
+    }
+  })
+
   it('erzeugt maschinenlesbare KI-Inhaltsverzeichnisse mit allen öffentlichen Seiten und Quellen', () => {
     const concise = readFileSync('dist/llms.txt', 'utf8')
     const full = readFileSync('dist/llms-full.txt', 'utf8')
