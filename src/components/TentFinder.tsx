@@ -11,6 +11,8 @@ type Model = {
   orientation: string
 }
 
+const official = 'https://www.pro-tent.com/de-de'
+
 const useCases: Choice[] = [
   { value: 'messe', label: 'Messe' },
   { value: 'promotion', label: 'Promotion' },
@@ -34,17 +36,17 @@ const priorities: Choice[] = [
 const modelsByPriority: Record<string, Model> = {
   kompakt: {
     name: 'Pro-Tent 2000',
-    href: '/pro-tent-2000',
+    href: `${official}/faltzelte/pro-tent-2000/`,
     orientation: 'Das Pro-Tent 2000 ist die Modellorientierung für kompakte Formate.',
   },
   modular: {
     name: 'Pro-Tent MODUL 4000',
-    href: '/modul-4000',
+    href: `${official}/faltzelte/pro-tent-modul-4000/`,
     orientation: 'Das Pro-Tent MODUL 4000 ist die Modellorientierung für einen modularen Innenraum.',
   },
   outdoor: {
     name: 'Pro-Tent 5000',
-    href: '/pro-tent-5000',
+    href: `${official}/faltzelte/pro-tent-5000/`,
     orientation: 'Das Pro-Tent 5000 ist die Modellorientierung für große Formate und anspruchsvolle Outdoor-Einsätze.',
   },
 }
@@ -194,7 +196,7 @@ export function TentFinder() {
             {areas.find((choice) => choice.value === area)?.label}; Priorität{' '}
             {priorities.find((choice) => choice.value === priority)?.label}.
           </p>
-          <a className="btn primary" href={`${import.meta.env.BASE_URL}${model.href.slice(1)}`}>{model.name} ansehen</a>
+          <a className="btn primary" href={model.href} target="_blank" rel="noopener noreferrer">{model.name} ansehen <span aria-hidden="true">↗</span></a>
         </div>
       )}
 

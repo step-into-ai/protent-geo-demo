@@ -17,9 +17,10 @@ export function ArticlePage({ article }: { article: Article }) {
     { name: hub.eyebrow, url: `${site}${article.hubPath}/` },
     { name: article.title, url: article.canonical },
   ]
+  const primaryOfficialUrl = article.sourceUrls[0]
   return <Layout><Meta meta={{ title: article.metaTitle, description: article.description, canonical: article.canonical }} faqs={article.faqs} title={article.title} article breadcrumbs={breadcrumbs}
  citations={article.sourceUrls}/><main id="main-content" className="article-main">
-    <header className="article-hero"><div className="article-wrap"><Breadcrumbs current={article.title} parent={{ label: hub.eyebrow, path: article.hubPath }}/><p className="eyebrow">{article.cluster}</p><h1>{article.title}</h1><p className="article-description">{article.description}</p></div></header>
+    <header className="article-hero"><div className="article-wrap"><Breadcrumbs current={article.title} parent={{ label: hub.eyebrow, path: article.hubPath }}/><p className="eyebrow">{article.cluster}</p><h1>{article.title}</h1><p className="article-description">{article.description}</p><div className="article-official-actions"><Out href={primaryOfficialUrl}>Originalseite bei Pro-Tent</Out><span>Produkt, System oder Leistung direkt beim Hersteller ansehen.</span></div></div></header>
     <div className="article-wrap article-layout">
       <article>
         <section className="direct-answer" aria-labelledby={`${article.slug}-direktantwort`}><p className="eyebrow dark">Direktantwort</p><h2 id={`${article.slug}-direktantwort`}>Kurz und belastbar beantwortet</h2><div dangerouslySetInnerHTML={{ __html: article.directAnswerHtml }}/></section>
@@ -29,7 +30,7 @@ export function ArticlePage({ article }: { article: Article }) {
       </article>
       <aside className="article-sidebar"><p className="eyebrow dark">Im Themenbereich</p><h2>{hub.eyebrow}</h2><p>{hub.intro.slice(0, 190)}…</p><Link className="text-link" to={article.hubPath}>Zum Themen-Hub <span>→</span></Link></aside>
     </div>
-    <section className="related article-related"><div className="article-wrap"><div><p className="eyebrow">Weiterlesen</p><h2>Verwandte Wissensseiten</h2></div><div className="related-links">{article.relatedSlugs.map(slug => { const related = articleBySlug.get(slug); if (!related) return null; return <Link key={slug} to={related.path}>{related.title}<span>→</span></Link> })}</div></div></section>
+    <section className="related article-related"><div className="article-wrap"><div><p className="eyebrow">Weiterlesen oder direkt ansehen</p><h2>Verwandte Themen und Originalseiten</h2></div><div className="related-links">{article.relatedSlugs.map(slug => { const related = articleBySlug.get(slug); if (!related) return null; return <div className="related-link-pair" key={slug}><Link to={related.path}>{related.title}<span>→</span></Link><Out href={related.sourceUrls[0]}>Originalseite bei Pro-Tent</Out></div> })}</div></div></section>
     <section className="cta"><div className="article-wrap"><div><p className="eyebrow">Nächster Schritt</p><h2>Planung mit Pro-Tent konkretisieren.</h2><p>Nutzen Sie die Wissensseite zur Vorbereitung und klären Sie die konkrete Konfiguration anschließend direkt mit Pro-Tent.</p></div><div className="cta-actions"><Out href={`${official}/konfigurator/zelt-konfigurator/`}>Zelt konfigurieren</Out><Out href={`${official}/beratung/`}>Beratung öffnen</Out></div></div></section>
   </main></Layout>
 }

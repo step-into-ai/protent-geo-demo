@@ -58,7 +58,9 @@ describe('TentFinder', () => {
     expect(within(result).getByText('Pro-Tent 5000')).toBeInTheDocument()
     expect(result).toHaveTextContent(/große formate und anspruchsvolle outdoor-einsätze/i)
     const link = within(result).getByRole('link', { name: /pro-tent 5000 ansehen/i })
-    expect(link).toHaveAttribute('href', '/pro-tent-5000')
+    expect(link).toHaveAttribute('href', 'https://www.pro-tent.com/de-de/faltzelte/pro-tent-5000/')
+    expect(link).toHaveAttribute('target', '_blank')
+    expect(link).toHaveAttribute('rel', 'noopener noreferrer')
 
     unmount()
     render(<TentFinder />)

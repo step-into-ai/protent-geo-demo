@@ -143,6 +143,29 @@ describe('routing', () => {
     expect(screen.queryByText(/Planungskonsole/i)).not.toBeInTheDocument()
   })
 
+  it('führt an kaufentscheidenden Stellen zusätzlich zu den passenden Originalseiten', () => {
+    const planning = articles.find(article => article.slug === 'messestand-planen')
+    const systems = articles.find(article => article.slug === 'messestand-systeme')
+    if (!planning || !systems) throw new Error('Messe-Testartikel fehlen')
+
+    render(<MemoryRouter initialEntries={['/messestand-planen']}><AppRoutes /></MemoryRouter>)
+    const hero = document.querySelector('.article-hero')
+    if (!hero) throw new Error('Artikel-Hero fehlt')
+    expect(within(hero as HTMLElement).getByRole('link', { name: /Originalseite bei Pro-Tent/i })).toHaveAttribute('href', planning.sourceUrls[0])
+
+    const relatedInternal = screen.getByRole('link', { name: /Messestand-Systeme vergleichen/i })
+    const relatedPair = relatedInternal.closest('.related-link-pair')
+    if (!relatedPair) throw new Error('Verwandtes Linkpaar fehlt')
+    expect(within(relatedPair as HTMLElement).getByRole('link', { name: /Originalseite bei Pro-Tent/i })).toHaveAttribute('href', systems.sourceUrls[0])
+
+    cleanup()
+    render(<MemoryRouter initialEntries={['/messestaende']}><AppRoutes /></MemoryRouter>)
+    const cardInternal = screen.getByRole('link', { name: planning.title })
+    const card = cardInternal.closest('article')
+    if (!card) throw new Error('Artikelkarte fehlt')
+    expect(within(card as HTMLElement).getByRole('link', { name: /Originalseite bei Pro-Tent/i })).toHaveAttribute('href', planning.sourceUrls[0])
+  })
+
   it('setzt bei Navigation in derselben Routerinstanz genau ein verwaltetes Meta je Typ', async () => {
     render(<MemoryRouter initialEntries={['/faltzelte']}><AppRoutes /></MemoryRouter>)
     await waitFor(() => expect(document.title).toContain('Faltzelte verstehen'))
